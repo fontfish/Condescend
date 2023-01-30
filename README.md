@@ -1,6 +1,8 @@
 # Fish Condescend
 A deliberately simple modern Garamond.
 
+![A sample image of Fish Condescend at large size](https://raw.githubusercontent.com/fontfish/Condescend/main/images/sample_large.png "Fish Condescend")
+
 ## About
 
 Condescend is designed as a simplified modern Garamond-style typeface,
