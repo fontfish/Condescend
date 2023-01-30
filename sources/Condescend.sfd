@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1675102600
+ModificationTime: 1675107413
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -72,7 +72,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 20 20 8
+WinInfo: 100 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -10640,19 +10640,6 @@ AnchorPoint: "accent_below" 0 25 mark 0
 LayerCount: 2
 Back
 SplineSet
-0 30 m 1
- 40 30 l 25
- 7 -36 l 1
- 52 -48 90 -80 90 -125 c 3
- 90 -190 15 -232 -80 -230 c 1
- -80 -195 l 1
- -15 -195 23 -167 23 -137 c 3
- 23 -105 -13 -89 -55 -84 c 9
- -55 -80 l 1
- 0 30 l 1
-EndSplineSet
-Fore
-SplineSet
 0 25 m 1
  40 25 l 25
  7 -41 l 1
@@ -10661,6 +10648,30 @@ SplineSet
  -80 -195 l 1
  -15 -195 23 -170 23 -140 c 3
  23 -110 -15 -94 -55 -89 c 9
+ -55 -85 l 1
+ 0 25 l 1
+-220 30 m 1
+ -180 30 l 25
+ -213 -36 l 1
+ -168 -48 -130 -80 -130 -125 c 3
+ -130 -190 -205 -232 -300 -230 c 1
+ -300 -195 l 1
+ -235 -195 -197 -167 -197 -137 c 3
+ -197 -105 -233 -89 -275 -84 c 9
+ -275 -80 l 1
+ -220 30 l 1
+EndSplineSet
+Fore
+SplineSet
+0 25 m 1
+ 40 25 l 1
+ 7 -41 l 1
+ 52 -53 90 -80 90 -125 c 0
+ 90 -189 18 -230 -74 -230 c 2
+ -80 -230 l 1
+ -80 -195 l 1
+ -15 -195 23 -170 23 -140 c 0
+ 23 -110 -15 -94 -55 -89 c 1
  -55 -85 l 1
  0 25 l 1
 EndSplineSet
@@ -12377,6 +12388,7 @@ EndChar
 StartChar: ccedilla
 Encoding: 231 231 188
 Width: 375
+UnlinkRmOvrlpSave: 1
 Flags: HM
 LayerCount: 2
 Fore
@@ -12472,6 +12484,7 @@ EndChar
 StartChar: oslash
 Encoding: 248 248 190
 Width: 456
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -12923,19 +12936,6 @@ AnchorPoint: "accent_below_cap" 0 30 mark 0
 LayerCount: 2
 Back
 SplineSet
-0 25 m 1
- 40 25 l 25
- 7 -41 l 1
- 52 -53 90 -80 90 -125 c 3
- 90 -190 15 -232 -80 -230 c 1
- -80 -195 l 1
- -15 -195 23 -170 23 -140 c 3
- 23 -110 -15 -94 -55 -89 c 9
- -55 -85 l 1
- 0 25 l 1
-EndSplineSet
-Fore
-SplineSet
 0 30 m 1
  43 30 l 25
  12 -32 l 1
@@ -12944,6 +12944,30 @@ SplineSet
  -82 -205 l 1
  -18 -205 23 -177 23 -142 c 3
  23 -107 -13 -90 -55 -85 c 9
+ -55 -80 l 1
+ 0 30 l 1
+-230 25 m 1
+ -190 25 l 25
+ -223 -41 l 1
+ -178 -53 -140 -80 -140 -125 c 3
+ -140 -190 -215 -232 -310 -230 c 1
+ -310 -195 l 1
+ -245 -195 -207 -170 -207 -140 c 3
+ -207 -110 -245 -94 -285 -89 c 9
+ -285 -85 l 1
+ -230 25 l 1
+EndSplineSet
+Fore
+SplineSet
+0 30 m 1
+ 43 30 l 1
+ 12 -32 l 1
+ 60 -47 93 -80 93 -125 c 0
+ 93 -194 16 -240 -76 -240 c 2
+ -82 -240 l 1
+ -82 -205 l 1
+ -18 -205 23 -177 23 -142 c 0
+ 23 -107 -13 -90 -55 -85 c 1
  -55 -80 l 1
  0 30 l 1
 EndSplineSet
@@ -13113,6 +13137,7 @@ EndChar
 StartChar: Aring
 Encoding: 197 197 219
 Width: 580
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -13220,6 +13245,7 @@ EndChar
 StartChar: Ccedilla
 Encoding: 199 199 220
 Width: 630
+UnlinkRmOvrlpSave: 1
 Flags: HM
 LayerCount: 2
 Fore
@@ -13370,6 +13396,7 @@ EndChar
 StartChar: Oslash
 Encoding: 216 216 235
 Width: 700
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back

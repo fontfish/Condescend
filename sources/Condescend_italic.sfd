@@ -74,7 +74,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 20 20 8
+WinInfo: 100 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -10208,6 +10208,7 @@ EndChar
 StartChar: oslash
 Encoding: 248 248 164
 Width: 380
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -10750,6 +10751,7 @@ EndChar
 StartChar: Aring
 Encoding: 197 197 182
 Width: 505
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -10829,6 +10831,7 @@ EndChar
 StartChar: Oslash
 Encoding: 216 216 186
 Width: 655
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -11802,6 +11805,7 @@ EndChar
 StartChar: Ccedilla
 Encoding: 199 199 199
 Width: 570
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Fore
@@ -12032,6 +12036,7 @@ EndChar
 StartChar: ccedilla
 Encoding: 231 231 222
 Width: 315
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Fore
