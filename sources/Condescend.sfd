@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1675107413
+ModificationTime: 1675730652
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9280,7 +9280,7 @@ EndChar
 
 StartChar: ae
 Encoding: 230 230 126
-Width: 564
+Width: 560
 Flags: HMW
 LayerCount: 2
 Back
