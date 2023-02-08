@@ -4,15 +4,23 @@ FONTLOG for Fish Condescend
 Information
 
 Fish Condescend by G Wilson, Fontfish.
-A simple modern Garamond indended for text, designed to use only minimal font features.
+A simple modern Garamond indended for text,
+designed to use only minimal font features.
 
-This font currently only supports the basic latin alphabet (approximately Latin-1).
+This font currently only supports the basic
+latin alphabet (approximately Latin-1).
 
 
 Changelog
 
 Version 001.000, January 2023
-See the FONTLOG embedded in the FontForge .sfd files for some creation and modification timeline information.
+See the FONTLOG embedded in the FontForge
+.sfd files for some creation and modification
+timeline information.
+
+Version 001.010, February 2023
+Wordspaces narrowed slightly.
+Output updated font files.
 
 
 Acknowledgements
@@ -28,18 +36,25 @@ Inspiration:
 The types of Claude Garamont and Jean Jannon,
 Various other historical typefaces,
 A search for simplicity,
-The complete lack of support for kerning and OpenType features on some supposedly modern locked-down devices (namely, some e-readers).
+The complete lack of support for kerning and
+OpenType features on some supposedly modern
+locked-down devices (namely, some e-readers).
 
 
 Notes and Edit Recommendations
 
-This font is, for the needs of the creator, functionally complete.
+This font is, for the needs of the creator,
+functionally complete.
 
-If you have any suggestions or simply require the addition of a few accented glyphs,
-contact me via GitHib or open an issue there (https://github.com/fontfish/Condescend/issues).
+If you have any suggestions or simply require
+the addition of a few accented glyphs,
+contact me via GitHib or open an issue there
+(https://github.com/fontfish/Condescend/issues).
 
-If you require more significant modifications, such as an entire alphabet or Unicode block,
+If you require more significant modifications,
+such as an entire alphabet or Unicode block,
 it is recommended that you create a derivative work.
-For linguistic purposes, you will likely understand the accents and letters you require better than I do.
+For linguistic purposes, you will likely understand
+the accents and letters you require better than I do.
 
 (I don't fully understand how the Reserved Font Name field works, but my suggestion for any derivatives of this font that retain the style and design of the core character set and are indended only to expand upon the existing features or character set, is to remove the "Fish" from the name and replace it with an appropriate identifying prefix.)

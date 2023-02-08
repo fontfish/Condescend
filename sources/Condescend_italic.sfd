@@ -5,7 +5,7 @@ FamilyName: Fish Condescend
 Weight: Regular
 Copyright: Copyright (c) 2022, G Wilson, FontFish, https://github.com/fontfish/\n\nLicensed under the SIL Open Font Licence (http://scripts.sil.org/OFL).
 UComments: "2022-12-30: Created with FontForge (http://fontforge.org)+AAoACgAA-A simple Garamond-like typeface made to minimise reliance on kerning and OpenType feature support."
-FontLog: "Condescend Italic by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-As of 2023-01-30+AAoA-Basic Latin alphabet roughly completed for creator purposes.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning for punctuation only."
+FontLog: "Condescend Italic by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-As of 2023-01-30+AAoA-Basic Latin alphabet roughly completed for creator purposes.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning for punctuation only.+AAoACgAA-2023-02-08+AAoA-Space glyph narrowed."
 Version: 001.000
 ItalicAngle: -10
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1675730826
+ModificationTime: 1675820786
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -684,7 +684,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 11
-Width: 220
+Width: 200
 Flags: HMW
 LayerCount: 2
 EndChar
@@ -822,8 +822,8 @@ SplineSet
  362 39 312 -10 270 -10 c 0
  235 -10 208 22 243 142 c 1
  189 47 122 -10 67 -10 c 0
- 35 -10 8 22 8 65 c 0
- 8 220 174 375 303 385 c 1
+ 35 -10 8 22 8 65 c 4
+ 8 218 177 375 303 385 c 5
  317 405 l 1
  357 405 l 1
 268 305 m 1
@@ -2236,7 +2236,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 38
-Width: 250
+Width: 260
 Flags: HMW
 LayerCount: 2
 Back
@@ -2250,8 +2250,8 @@ EndSplineSet
 Fore
 SplineSet
 30 220 m 1
- 220 265 l 1
- 220 205 l 1
+ 230 265 l 1
+ 230 205 l 1
  30 160 l 1
  30 220 l 1
 EndSplineSet
@@ -7767,7 +7767,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 129
-Width: 220
+Width: 200
 Flags: HMW
 LayerCount: 2
 EndChar
@@ -10080,7 +10080,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 162
-Width: 250
+Width: 260
 Flags: HMW
 LayerCount: 2
 Fore

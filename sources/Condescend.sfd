@@ -5,7 +5,7 @@ FamilyName: Fish Condescend
 Weight: Regular
 Copyright: Copyright (c) 2022, G Wilson, FontFish, https://github.com/fontfish/\n\nLicenced under the SIL Open Font Licence (http://scripts.sil.org/OFL).
 UComments: "Created with FontForge (http://fontforge.org)+AAoACgAA-A simple Garamond-like typeface made to minimise reliance on kerning and OpenType feature support.+AAoACgAA-Licensed under the SIL Open Font Licence (http://scripts.sil.org/OFL)."
-FontLog: "Fish Condescend by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-2023-01-30+AAoA-Basic Latin alphabet roughly complete.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning added for punctuation only."
+FontLog: "Fish Condescend by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-2023-01-30+AAoA-Basic Latin alphabet roughly complete.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning added for punctuation only.+AAoACgAA-2023-02-08+AAoA-Small change to hyphen.+AAoA-Space glyph narrowed."
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1675730652
+ModificationTime: 1675820756
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -72,7 +72,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 100 20 8
+WinInfo: 0 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -956,7 +956,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 11
-Width: 250
+Width: 220
 Flags: HMW
 LayerCount: 2
 EndChar
@@ -3433,14 +3433,14 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 38
-Width: 250
+Width: 260
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
 30 240 m 1
- 220 240 l 1
- 220 180 l 1
+ 230 240 l 1
+ 230 180 l 1
  30 180 l 1
  30 240 l 1
 EndSplineSet
@@ -9516,7 +9516,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 129
-Width: 250
+Width: 220
 Flags: HMW
 LayerCount: 2
 EndChar
@@ -12378,7 +12378,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 187
-Width: 250
+Width: 260
 Flags: HMW
 LayerCount: 2
 Fore
