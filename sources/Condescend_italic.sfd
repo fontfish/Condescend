@@ -5,8 +5,8 @@ FamilyName: Fish Condescend
 Weight: Regular
 Copyright: Copyright (c) 2022, G Wilson, FontFish, https://github.com/fontfish/\n\nLicensed under the SIL Open Font Licence (http://scripts.sil.org/OFL).
 UComments: "2022-12-30: Created with FontForge (http://fontforge.org)+AAoACgAA-A simple Garamond-like typeface made to minimise reliance on kerning and OpenType feature support."
-FontLog: "Condescend Italic by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-As of 2023-01-30+AAoA-Basic Latin alphabet roughly completed for creator purposes.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning for punctuation only.+AAoACgAA-2023-02-08+AAoA-Space glyph narrowed."
-Version: 001.000
+FontLog: "Condescend Italic by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-As of 2023-01-30+AAoA-Basic Latin alphabet roughly completed for creator purposes.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning for punctuation only.+AAoACgAA-2023-02-08+AAoA-Space glyph narrowed.+AAoACgAA-2023-02-09+AAoA-Added simple +ACIA-hist+ACIA OpenType feature."
+Version: 001.011
 ItalicAngle: -10
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1675820786
+ModificationTime: 1675980662
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'hist' Historical Forms in Latin lookup 1" { "'hist' Historical Forms in Latin lookup 1-1"  } ['hist' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -74,7 +75,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 8
+WinInfo: 20 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1515,6 +1516,7 @@ SplineSet
  145 38 167 59 167 81 c 3
  167 141 62 213 62 283 c 3
 EndSplineSet
+Substitution2: "'hist' Historical Forms in Latin lookup 1-1" longs
 EndChar
 
 StartChar: c

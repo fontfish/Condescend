@@ -16,6 +16,12 @@ because I decided that this design was to use only minimal kerning
 and has no regard for the occasional uneven upper-lower-case pair.
 It also serves as a pun on the word “descender”.
 
+### Files and Folders
+
+The FontForge development files for Fish Condescend are in
+the`sources` folder.
+Installable font files can be found in the `fonts` folder.
+
 ## Licence
 
 (Fish) Condescend is licenced under the terms of the SIL Open Font Licence (https://scripts.sil.org/OFL)

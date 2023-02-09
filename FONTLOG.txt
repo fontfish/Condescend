@@ -22,6 +22,9 @@ Version 001.010, February 2023
 Wordspaces narrowed slightly.
 Output updated font files.
 
+Version 001.011, February 2023
+Small edits and fixes.
+Output updated font files.
 
 Acknowledgements
 
