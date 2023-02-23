@@ -28,6 +28,7 @@ Output updated font files.
 
 Version 001.020, February 2023
 Added ct ligature.
+Barely perceptible edit to “g”.
 
 Acknowledgements
 
