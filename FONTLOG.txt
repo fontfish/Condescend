@@ -30,6 +30,13 @@ Version 001.020, February 2023
 Added ct ligature.
 Barely perceptible edit to “g”.
 
+Version 001.030, May 2023
+Wordspaces narrowed slightly more.
+Tiny edits to lower-case “e” and upper-case “W”.
+Changed style of “registered” symbol.
+Added more combining accents.
+
+
 Acknowledgements
 
 Design: G Wilson, FontFish (https://github.com/fontfish)
