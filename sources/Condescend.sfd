@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1707596341
+ModificationTime: 1707597795
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -74,7 +74,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 20 20 8
+WinInfo: 100 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2308,9 +2308,9 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 26
-Width: 318
+Width: 324
 Flags: HMW
-AnchorPoint: "accent_above" 160 455 basechar 0
+AnchorPoint: "accent_above" 162 455 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -2355,25 +2355,25 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-37 295 m 1
- 37 349 95 401 163 401 c 1
- 198 401 240 390 265 373 c 1
- 270 285 l 1
- 237 285 l 17
- 228 317 l 2
- 220 344 197 364 157 364 c 1
- 122 364 102 341 102 315 c 1
- 102 295 113 276 185 234 c 0
- 267 186 285 156 285 108 c 1
- 285 48 225 -11 145 -11 c 1
- 115 -11 65 0 40 16 c 1
- 30 115 l 1
- 63 115 l 25
- 75 78 l 2
- 85 48 113 27 150 27 c 1
- 190 27 215 55 215 90 c 1
- 215 112 201 132 130 174 c 0
- 54 219 37 250 37 295 c 1
+39 295 m 1
+ 39 349 97 401 165 401 c 1
+ 200 401 242 390 267 373 c 1
+ 272 285 l 1
+ 239 285 l 17
+ 230 317 l 2
+ 222 344 199 364 159 364 c 1
+ 124 364 104 341 104 315 c 1
+ 104 295 115 276 187 234 c 0
+ 269 186 287 156 287 108 c 1
+ 287 48 227 -11 147 -11 c 1
+ 117 -11 67 0 42 16 c 1
+ 32 115 l 1
+ 65 115 l 25
+ 77 78 l 2
+ 87 48 115 27 152 27 c 1
+ 192 27 217 55 217 90 c 1
+ 217 112 203 132 132 174 c 0
+ 56 219 39 250 39 295 c 1
 EndSplineSet
 Substitution2: "'hist' Historical Forms in Latin lookup 1-1" longs
 EndChar
@@ -10174,7 +10174,7 @@ EndChar
 
 StartChar: germandbls
 Encoding: 223 223 141
-Width: 515
+Width: 520
 Flags: HMW
 LayerCount: 2
 Back
