@@ -36,6 +36,16 @@ Tiny edits to lower-case “e” and upper-case “W”.
 Changed style of “registered” symbol.
 Added more combining accents.
 
+Version 001.200, February 2024
+Respaced numbers, “™” and “©”.
+Edited “T”, “x”, “ª”.
+Roman:
+Edited “A”, “V”, “W”, “v”, “w”, “y”, “4”.
+Notably changed “?”.
+Italic:
+Added breve.
+Respaced “a”, “d”, “q”, “y”.
+
 
 Acknowledgements
 
@@ -71,4 +81,4 @@ it is recommended that you create a derivative work.
 For linguistic purposes, you will likely understand
 the accents and letters you require better than I do.
 
-(I don't fully understand how the Reserved Font Name field works, but my suggestion for any derivatives of this font that retain the style and design of the core character set and are indended only to expand upon the existing features or character set, is to remove the "Fish" from the name and replace it with an appropriate identifying prefix.)
+(I don't fully understand the Reserved Font Name field, but my suggestion for any derivatives of this font that retain the style and design of the core character set and are indended only to expand upon the existing features or character set, is to remove the "Fish" from the name and replace it with an appropriate identifying prefix.)

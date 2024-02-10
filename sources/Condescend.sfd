@@ -4,9 +4,9 @@ FullName: Fish Condescend
 FamilyName: Fish Condescend
 Weight: Regular
 Copyright: Copyright (c) 2022, G Wilson, FontFish, https://github.com/fontfish/\n\nLicenced under the SIL Open Font Licence (http://scripts.sil.org/OFL).
-UComments: "Created with FontForge (http://fontforge.org)+AAoACgAA-A simple Garamond-like typeface made to minimise reliance on kerning and OpenType feature support.+AAoACgAA-Licensed under the SIL Open Font Licence (http://scripts.sil.org/OFL)."
+UComments: "Created with FontForge (http://fontforge.org)+AAoACgAA-A simple Garamond-like typeface designed to minimise reliance on kerning and OpenType feature support.+AAoACgAA-Licensed under the SIL Open Font Licence (http://scripts.sil.org/OFL)."
 FontLog: "Fish Condescend by FontFish+AAoACgAK-Began 2022-12-30+AAoACgAA-Completed as of 2023-01-01 :+AAoA-E, H, I, J, L, O+AAoA-a to v+AAoA-comma [,]+AAoACgAA-2023-01-30+AAoA-Basic Latin alphabet roughly complete.+AAoA-OpenType support for basic ligatures only.+AAoA-Kerning added for punctuation only.+AAoACgAA-2023-02-08+AAoA-Small change to hyphen.+AAoA-Space glyph narrowed.+AAoACgAA-2023-02-09+AAoA-Adjusted terminal of long-arching +IBwA-f+IB0A in ligatures only.+AAoA-Fixed incorrect right metrics of capital H.+AAoA-Subtle adjustment of capital spacing.+AAoA-Added simple +ACIA-hist+ACIA opentype feature.+AAoA-Thinned parentheses a little (could be done more).+AAoACgAA-2023-02-20+AAoA-Added discretionary ligature +IBwA-ct+IB0A.+AAoACgAA-2023-05-02+AAoA-Added combining breve, double acute and ogonek accents.+AAoA-Reduced width of space by 10px.+AAoA-Made small edit to inner whitespace of lower-case +IBwA-e+IB0A.+AAoA-Made small edit to weight of upper-case +IBwA-W+IB0A.+AAoA-Changed +IBwA-registered+IB0A symbol to superscript style."
-Version: 001.030
+Version: 001.200
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1672435746
-ModificationTime: 1682992002
+ModificationTime: 1707596341
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -67,13 +67,14 @@ KernClass2: 11 7 "'kern' Horizontal Kerning in Latin lookup 0-1"
  173 a c d e g o q s agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash oe ct.dlig
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 45 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 50 {} 50 {} 20 {} -80 {} 0 {} 0 {} 0 {} 50 {} 0 {} 30 {} -100 {} 0 {} 0 {} -50 {} 25 {} 30 {} 0 {} -80 {} -20 {} 0 {} 0 {} -70 {} -100 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2023, G Wilson (https://github.com/fontfish),+AAoA-with Reserved Font Name Fish Condescend.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: Custom
+Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 100 20 8
+WinInfo: 20 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -88,10 +89,10 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 408945 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "accent_below_cap"""  "accent_above_cap"""  "accent_below"""  "accent_above"""  "above""" 
-BeginChars: 246 244
+BeginChars: 1114127 244
 
 StartChar: n
-Encoding: 78 110 0
+Encoding: 110 110 0
 Width: 490
 Flags: HMW
 AnchorPoint: "accent_above" 250 455 basechar 0
@@ -240,7 +241,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 77 109 1
+Encoding: 109 109 1
 Width: 734
 Flags: HMW
 LayerCount: 2
@@ -417,7 +418,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 79 111 2
+Encoding: 111 111 2
 Width: 456
 Flags: HMW
 AnchorPoint: "accent_above" 228 455 basechar 0
@@ -481,7 +482,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 73 105 3
+Encoding: 105 105 3
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -535,7 +536,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 76 108 4
+Encoding: 108 108 4
 Width: 254
 Flags: HMW
 LayerCount: 2
@@ -558,7 +559,7 @@ EndSplineSet
 EndChar
 
 StartChar: j
-Encoding: 74 106 5
+Encoding: 106 106 5
 Width: 245
 Flags: HMW
 LayerCount: 2
@@ -588,7 +589,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 72 104 6
+Encoding: 104 104 6
 Width: 496
 Flags: HMW
 LayerCount: 2
@@ -709,7 +710,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 82 114 7
+Encoding: 114 114 7
 Width: 340
 Flags: HMW
 LayerCount: 2
@@ -802,11 +803,11 @@ EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 75 107 8
+Encoding: 107 107 8
 Width: 465
 Flags: HMW
 LayerCount: 2
-Fore
+Back
 SplineSet
 284 35 m 1
  469 35 l 1
@@ -842,10 +843,46 @@ SplineSet
  36 600 l 1
  36 610 l 1
 EndSplineSet
+Fore
+SplineSet
+284 35 m 1
+ 469 35 l 1
+ 469 0 l 1
+ 284 0 l 1
+ 284 35 l 1
+182 220 m 1
+ 240 265 l 1
+ 442 8 l 1
+ 347 5 l 1
+ 182 220 l 1
+364 385 m 1
+ 425 385 l 1
+ 164 165 l 1
+ 164 215 l 1
+ 364 385 l 1
+265 390 m 1
+ 450 390 l 1
+ 450 355 l 1
+ 265 355 l 1
+ 265 390 l 1
+24 35 m 1
+ 219 35 l 1
+ 219 0 l 1
+ 24 0 l 1
+ 24 35 l 1
+36 610 m 1
+ 154 654 l 1
+ 164 654 l 1
+ 164 0 l 1
+ 90 0 l 1
+ 90 560 l 1
+ 36 600 l 1
+ 36 610 l 1
+EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 85 117 9
+Encoding: 117 117 9
 Width: 490
 Flags: HMW
 AnchorPoint: "accent_above" 245 455 basechar 0
@@ -905,7 +942,7 @@ EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 66 98 10
+Encoding: 98 98 10
 Width: 475
 Flags: HMW
 LayerCount: 2
@@ -956,14 +993,14 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 0 32 11
+Encoding: 32 32 11
 Width: 210
 Flags: HMW
 LayerCount: 2
 EndChar
 
 StartChar: period
-Encoding: 14 46 12
+Encoding: 46 46 12
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -986,7 +1023,7 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 68 100 13
+Encoding: 100 100 13
 Width: 480
 Flags: HMW
 LayerCount: 2
@@ -1073,7 +1110,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 65 97 14
+Encoding: 97 97 14
 Width: 382
 Flags: HMW
 AnchorPoint: "accent_above" 192 455 basechar 0
@@ -1361,7 +1398,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 81 113 15
+Encoding: 113 113 15
 Width: 468
 Flags: HMW
 LayerCount: 2
@@ -1393,7 +1430,7 @@ EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 80 112 16
+Encoding: 112 112 16
 Width: 480
 Flags: HMW
 LayerCount: 2
@@ -1465,7 +1502,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 70 102 17
+Encoding: 102 102 17
 Width: 285
 Flags: HMW
 LayerCount: 2
@@ -1541,7 +1578,7 @@ EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 47 79 18
+Encoding: 79 79 18
 Width: 700
 Flags: HMW
 AnchorPoint: "accent_above_cap" 350 650 basechar 0
@@ -1610,7 +1647,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 84 116 19
+Encoding: 116 116 19
 Width: 300
 Flags: HMW
 LayerCount: 2
@@ -1707,7 +1744,7 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 40 72 20
+Encoding: 72 72 20
 Width: 745
 Flags: HMW
 LayerCount: 2
@@ -1752,7 +1789,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 41 73 21
+Encoding: 73 73 21
 Width: 295
 Flags: HMW
 AnchorPoint: "accent_above_cap" 147 650 basechar 0
@@ -1778,7 +1815,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 44 76 22
+Encoding: 76 76 22
 Width: 530
 Flags: HMW
 LayerCount: 2
@@ -1832,7 +1869,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 37 69 23
+Encoding: 69 69 23
 Width: 530
 Flags: HMW
 AnchorPoint: "accent_above_cap" 245 650 basechar 0
@@ -1921,7 +1958,7 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 71 103 24
+Encoding: 103 103 24
 Width: 425
 Flags: HMW
 LayerCount: 2
@@ -2163,7 +2200,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 69 101 25
+Encoding: 101 101 25
 Width: 378
 Flags: HMW
 AnchorPoint: "accent_above" 210 455 basechar 0
@@ -2270,10 +2307,10 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 83 115 26
-Width: 310
+Encoding: 115 115 26
+Width: 318
 Flags: HMW
-AnchorPoint: "accent_above" 155 455 basechar 0
+AnchorPoint: "accent_above" 160 455 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -2318,31 +2355,31 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-32 295 m 1
- 32 349 90 401 158 401 c 1
- 193 401 235 390 260 373 c 1
- 265 285 l 1
- 232 285 l 17
- 223 317 l 2
- 215 344 192 364 152 364 c 1
- 117 364 97 341 97 315 c 1
- 97 295 108 277 180 235 c 0
- 262 187 280 156 280 108 c 1
- 280 48 220 -11 140 -11 c 1
- 110 -11 60 0 35 16 c 1
- 25 115 l 1
- 58 115 l 25
- 70 78 l 2
- 80 48 108 27 145 27 c 1
- 185 27 210 55 210 90 c 1
- 210 112 196 131 125 173 c 0
- 49 218 32 250 32 295 c 1
+37 295 m 1
+ 37 349 95 401 163 401 c 1
+ 198 401 240 390 265 373 c 1
+ 270 285 l 1
+ 237 285 l 17
+ 228 317 l 2
+ 220 344 197 364 157 364 c 1
+ 122 364 102 341 102 315 c 1
+ 102 295 113 276 185 234 c 0
+ 267 186 285 156 285 108 c 1
+ 285 48 225 -11 145 -11 c 1
+ 115 -11 65 0 40 16 c 1
+ 30 115 l 1
+ 63 115 l 25
+ 75 78 l 2
+ 85 48 113 27 150 27 c 1
+ 190 27 215 55 215 90 c 1
+ 215 112 201 132 130 174 c 0
+ 54 219 37 250 37 295 c 1
 EndSplineSet
 Substitution2: "'hist' Historical Forms in Latin lookup 1-1" longs
 EndChar
 
 StartChar: c
-Encoding: 67 99 27
+Encoding: 99 99 27
 Width: 375
 Flags: HMW
 AnchorPoint: "accent_below" 200 25 basechar 0
@@ -2416,7 +2453,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 86 118 28
+Encoding: 118 118 28
 Width: 440
 Flags: HMW
 LayerCount: 2
@@ -2546,8 +2583,8 @@ Fore
 SplineSet
 195 -15 m 1
  35 385 l 1
- 121 385 l 1
- 243 70 l 1
+ 121 385 l 5
+ 242 70 l 5
  195 -15 l 1
 -5 388 m 1
  195 388 l 1
@@ -2569,7 +2606,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 42 74 29
+Encoding: 74 74 29
 Width: 295
 Flags: HMW
 LayerCount: 2
@@ -2594,7 +2631,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 38 70 30
+Encoding: 70 70 30
 Width: 485
 Flags: HMW
 LayerCount: 2
@@ -2634,115 +2671,11 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 87 119 31
+Encoding: 119 119 31
 Width: 685
 Flags: HMW
 LayerCount: 2
 Back
-SplineSet
-445 -15 m 1
- 283 390 l 1
- 369 385 l 1
- 493 68 l 1
- 445 -15 l 1
-250 390 m 1
- 445 390 l 1
- 445 355 l 1
- 250 355 l 1
- 250 390 l 1
-595 380 m 1
- 650 390 l 1
- 475 -15 l 1
- 445 -15 l 1
- 470 70 l 1
- 595 380 l 1
-525 390 m 1
- 690 390 l 1
- 690 355 l 1
- 525 355 l 1
- 525 390 l 1
-190 -15 m 1
- 33 390 l 1
- 121 385 l 1
- 238 70 l 1
- 190 -15 l 1
--5 390 m 1
- 190 390 l 1
- 190 355 l 1
- -5 355 l 1
- -5 390 l 1
-325 310 m 1
- 370 305 l 1
- 220 -15 l 1
- 190 -15 l 1
- 215 70 l 1
- 325 310 l 1
--315 -15 m 1
- -477 390 l 1
- -389 385 l 1
- -265 68 l 1
- -315 -15 l 1
--510 390 m 1
- -315 390 l 1
- -315 355 l 1
- -510 355 l 1
- -510 390 l 1
--165 380 m 1
- -110 390 l 1
- -285 -15 l 1
- -315 -15 l 1
- -290 70 l 1
- -165 380 l 1
--235 390 m 1
- -70 390 l 1
- -70 355 l 1
- -235 355 l 1
- -235 390 l 1
--570 -15 m 1
- -727 390 l 1
- -637 385 l 1
- -520 70 l 1
- -570 -15 l 1
--765 390 m 1
- -570 390 l 1
- -570 355 l 1
- -765 355 l 1
- -765 390 l 1
--435 310 m 1
- -390 305 l 1
- -540 -15 l 1
- -570 -15 l 1
- -545 70 l 1
- -435 310 l 1
--910 380 m 1
- -855 390 l 1
- -1035 -15 l 1
- -1065 -15 l 1
- -1040 70 l 1
- -910 380 l 1
--1315 -15 m 1
- -1477 390 l 1
- -1387 385 l 1
- -1265 70 l 1
- -1315 -15 l 1
--1515 390 m 1
- -1315 390 l 1
- -1315 355 l 1
- -1515 355 l 1
- -1515 390 l 1
--1160 380 m 1
- -1105 390 l 1
- -1285 -15 l 1
- -1315 -15 l 1
- -1290 70 l 1
- -1160 380 l 1
--1230 390 m 1
- -1065 390 l 1
- -1065 355 l 1
- -1230 355 l 1
- -1230 390 l 1
-EndSplineSet
-Fore
 SplineSet
 445 -15 m 1
  285 385 l 1
@@ -2781,11 +2714,152 @@ SplineSet
  190 -15 l 1
  215 70 l 1
  325 310 l 1
+-275 -15 m 1
+ -437 390 l 1
+ -351 385 l 1
+ -227 68 l 1
+ -275 -15 l 1
+-470 390 m 1
+ -275 390 l 1
+ -275 355 l 1
+ -470 355 l 1
+ -470 390 l 1
+-125 380 m 1
+ -70 390 l 1
+ -245 -15 l 1
+ -275 -15 l 1
+ -250 70 l 1
+ -125 380 l 1
+-195 390 m 1
+ -30 390 l 1
+ -30 355 l 1
+ -195 355 l 1
+ -195 390 l 1
+-530 -15 m 1
+ -687 390 l 1
+ -599 385 l 1
+ -482 70 l 1
+ -530 -15 l 1
+-725 390 m 1
+ -530 390 l 1
+ -530 355 l 1
+ -725 355 l 1
+ -725 390 l 1
+-395 310 m 1
+ -350 305 l 1
+ -500 -15 l 1
+ -530 -15 l 1
+ -505 70 l 1
+ -395 310 l 1
+-1035 -15 m 1
+ -1197 390 l 1
+ -1109 385 l 1
+ -985 68 l 1
+ -1035 -15 l 1
+-1230 390 m 1
+ -1035 390 l 1
+ -1035 355 l 1
+ -1230 355 l 1
+ -1230 390 l 1
+-885 380 m 1
+ -830 390 l 1
+ -1005 -15 l 1
+ -1035 -15 l 1
+ -1010 70 l 1
+ -885 380 l 1
+-955 390 m 1
+ -790 390 l 1
+ -790 355 l 1
+ -955 355 l 1
+ -955 390 l 1
+-1290 -15 m 1
+ -1447 390 l 1
+ -1357 385 l 1
+ -1240 70 l 1
+ -1290 -15 l 1
+-1485 390 m 1
+ -1290 390 l 1
+ -1290 355 l 1
+ -1485 355 l 1
+ -1485 390 l 1
+-1155 310 m 1
+ -1110 305 l 1
+ -1260 -15 l 1
+ -1290 -15 l 1
+ -1265 70 l 1
+ -1155 310 l 1
+-1630 380 m 1
+ -1575 390 l 1
+ -1755 -15 l 1
+ -1785 -15 l 1
+ -1760 70 l 1
+ -1630 380 l 1
+-2035 -15 m 1
+ -2197 390 l 1
+ -2107 385 l 1
+ -1985 70 l 1
+ -2035 -15 l 1
+-2235 390 m 1
+ -2035 390 l 1
+ -2035 355 l 1
+ -2235 355 l 1
+ -2235 390 l 1
+-1880 380 m 1
+ -1825 390 l 1
+ -2005 -15 l 1
+ -2035 -15 l 1
+ -2010 70 l 1
+ -1880 380 l 1
+-1950 390 m 1
+ -1785 390 l 1
+ -1785 355 l 1
+ -1950 355 l 1
+ -1950 390 l 1
+EndSplineSet
+Fore
+SplineSet
+445 -15 m 1
+ 285 385 l 1
+ 368 385 l 1
+ 491 67 l 1
+ 445 -15 l 1
+250 388 m 1
+ 445 388 l 1
+ 445 353 l 1
+ 250 353 l 1
+ 250 388 l 1
+595 380 m 1
+ 647 383 l 1
+ 475 -15 l 1
+ 445 -15 l 1
+ 470 70 l 1
+ 595 380 l 1
+525 388 m 1
+ 690 388 l 1
+ 690 353 l 1
+ 525 353 l 1
+ 525 388 l 1
+190 -15 m 1
+ 35 385 l 1
+ 120 385 l 1
+ 237 69 l 1
+ 190 -15 l 1
+-5 388 m 1
+ 190 388 l 1
+ 190 353 l 1
+ -5 353 l 1
+ -5 388 l 1
+325 310 m 1
+ 370 305 l 1
+ 220 -15 l 1
+ 190 -15 l 1
+ 215 70 l 1
+ 325 310 l 1
 EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 88 120 32
+Encoding: 120 120 32
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -2924,21 +2998,21 @@ SplineSet
  210 354 l 1
  20 354 l 1
  20 389 l 1
-320 5 m 1
+322 5 m 1
  40 385 l 1
- 140 385 l 1
- 420 5 l 1
- 320 5 l 1
+ 137 385 l 1
+ 418 5 l 1
+ 322 5 l 1
 351 385 m 1
  405 385 l 1
- 249 195 l 1
- 215 220 l 1
+ 250 195 l 1
+ 217 220 l 1
  351 385 l 1
 EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 89 121 33
+Encoding: 121 121 33
 Width: 435
 Flags: HMW
 AnchorPoint: "accent_above" 230 455 basechar 0
@@ -3071,7 +3145,7 @@ SplineSet
 195 -15 m 1
  35 385 l 1
  122 385 l 1
- 245 67 l 1
+ 245 65 l 1
  195 -15 l 1
 -5 388 m 1
  195 388 l 1
@@ -3096,7 +3170,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 54 86 34
+Encoding: 86 86 34
 Width: 550
 Flags: HMW
 LayerCount: 2
@@ -3193,7 +3267,7 @@ EndSplineSet
 EndChar
 
 StartChar: z
-Encoding: 90 122 35
+Encoding: 122 122 35
 Width: 405
 Flags: HMW
 LayerCount: 2
@@ -3277,8 +3351,8 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 16 48 36
-Width: 500
+Encoding: 48 48 36
+Width: 510
 Flags: HMW
 LayerCount: 2
 Back
@@ -3326,44 +3400,44 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-403 190 m 0
- 403 265 340 325 240 325 c 0
- 158 325 97 270 97 200 c 0
- 97 125 160 65 260 65 c 0
- 342 65 403 120 403 190 c 0
-45 195 m 0
- 45 310 135 400 250 400 c 0
- 365 400 455 310 455 195 c 0
- 455 80 365 -10 250 -10 c 0
- 135 -10 45 80 45 195 c 0
+408 190 m 0
+ 408 265 345 328 250 328 c 0
+ 162 328 102 270 102 200 c 0
+ 102 125 165 62 260 62 c 0
+ 348 62 408 120 408 190 c 0
+50 195 m 0
+ 50 310 140 400 255 400 c 0
+ 370 400 460 310 460 195 c 0
+ 460 80 370 -10 255 -10 c 0
+ 140 -10 50 80 50 195 c 0
 EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 17 49 37
-Width: 334
+Encoding: 49 49 37
+Width: 364
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-50 38 m 1
- 300 38 l 1
- 300 0 l 1
- 50 0 l 1
- 50 38 l 1
-46 340 m 1
- 204 404 l 1
- 214 404 l 1
- 214 20 l 1
- 140 20 l 1
- 140 315 l 1
- 46 310 l 1
- 46 340 l 1
+65 38 m 1
+ 315 38 l 1
+ 315 0 l 1
+ 65 0 l 1
+ 65 38 l 1
+61 340 m 1
+ 219 404 l 1
+ 229 404 l 1
+ 229 20 l 1
+ 155 20 l 1
+ 155 315 l 1
+ 61 310 l 1
+ 61 340 l 1
 EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 13 45 38
+Encoding: 45 45 38
 Width: 260
 Flags: HMW
 LayerCount: 2
@@ -3378,149 +3452,12 @@ EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 33 65 39
+Encoding: 65 65 39
 Width: 590
 Flags: HMW
 AnchorPoint: "accent_above_cap" 290 650 basechar 0
 LayerCount: 2
 Back
-SplineSet
-1520 0 m 1
- 1335 0 l 1
- 1335 40 l 1
- 1520 40 l 1
- 1520 0 l 1
-1510 270 m 1
- 1735 270 l 1
- 1745 225 l 1
- 1500 225 l 1
- 1510 270 l 1
-1955 0 m 1
- 1730 0 l 1
- 1730 40 l 1
- 1955 40 l 1
- 1955 0 l 1
-1672 625 m 1
- 1905 10 l 1
- 1808 15 l 1
- 1615 545 l 1
- 1662 625 l 1
- 1672 625 l 1
-1440 10 m 1
- 1381 10 l 1
- 1585 547 l 1
- 1662 625 l 1
- 1625 522 l 1
- 1440 10 l 1
-150 270 m 1
- 375 270 l 1
- 385 225 l 1
- 140 225 l 1
- 150 270 l 1
-160 0 m 1
- -25 0 l 1
- -25 40 l 1
- 160 40 l 1
- 160 0 l 1
-595 0 m 1
- 370 0 l 1
- 370 40 l 1
- 595 40 l 1
- 595 0 l 1
-312 625 m 1
- 545 10 l 1
- 448 15 l 1
- 255 545 l 1
- 302 625 l 1
- 312 625 l 1
-80 10 m 1
- 21 10 l 1
- 240 587 l 1
- 302 625 l 1
- 265 522 l 1
- 80 10 l 1
--840 270 m 1
- -615 270 l 1
- -605 225 l 1
- -850 225 l 1
- -840 270 l 1
--830 0 m 1
- -1015 0 l 1
- -1015 40 l 1
- -830 40 l 1
- -830 0 l 1
--395 0 m 1
- -620 0 l 1
- -620 40 l 1
- -395 40 l 1
- -395 0 l 1
--678 625 m 1
- -445 10 l 1
- -543 15 l 1
- -735 542 l 1
- -688 625 l 1
- -678 625 l 1
--910 10 m 1
- -969 10 l 1
- -750 587 l 1
- -688 625 l 1
- -725 522 l 1
- -910 10 l 1
-740 10 m 1
- 681 10 l 1
- 923 620 l 1
- 964 620 l 1
- 925 498 l 1
- 740 10 l 1
-1255 0 m 1
- 1030 0 l 1
- 1030 40 l 1
- 1255 40 l 1
- 1255 0 l 1
-820 0 m 1
- 635 0 l 1
- 635 40 l 1
- 820 40 l 1
- 820 0 l 1
-810 270 m 1
- 1035 270 l 1
- 1045 225 l 1
- 800 225 l 1
- 810 270 l 1
-964 620 m 1
- 1205 10 l 1
- 1107 17 l 1
- 915 518 l 1
- 964 620 l 1
--1388.20996094 270 m 1
- -1163.20996094 270 l 1
- -1153.20996094 225 l 1
- -1398.20996094 225 l 1
- -1388.20996094 270 l 1
--1378.20996094 0 m 1
- -1563.20996094 0 l 1
- -1563.20996094 40 l 1
- -1378.20996094 40 l 1
- -1378.20996094 0 l 1
--948.209960938 0 m 1
- -1173.20996094 0 l 1
- -1173.20996094 40 l 1
- -948.209960938 40 l 1
- -948.209960938 0 l 1
--1228.20996094 620 m 1
- -998.209960938 10 l 1
- -1096.20996094 15 l 1
- -1288.20996094 542 l 1
- -1238.20996094 620 l 1
- -1228.20996094 620 l 1
--1458.20996094 10 m 1
- -1518.20996094 10 l 1
- -1303.20996094 575 l 1
- -1238.20996094 620 l 1
- -1273.20996094 522 l 1
- -1458.20996094 10 l 1
-EndSplineSet
-Fore
 SplineSet
 155 270 m 1
  380 270 l 1
@@ -3549,12 +3486,176 @@ SplineSet
  307 620 l 1
  272 525 l 1
  85 10 l 1
+1520 0 m 1
+ 1335 0 l 1
+ 1335 40 l 1
+ 1520 40 l 1
+ 1520 0 l 1
+1510 270 m 1
+ 1735 270 l 1
+ 1745 225 l 1
+ 1500 225 l 1
+ 1510 270 l 1
+1955 0 m 1
+ 1730 0 l 1
+ 1730 40 l 1
+ 1955 40 l 1
+ 1955 0 l 1
+1672 625 m 1
+ 1905 10 l 1
+ 1808 15 l 1
+ 1615 545 l 1
+ 1662 625 l 1
+ 1672 625 l 1
+1440 10 m 1
+ 1381 10 l 1
+ 1585 547 l 1
+ 1662 625 l 1
+ 1625 522 l 1
+ 1440 10 l 1
+-580 270 m 1
+ -355 270 l 1
+ -345 225 l 1
+ -590 225 l 1
+ -580 270 l 1
+-570 0 m 1
+ -755 0 l 1
+ -755 40 l 1
+ -570 40 l 1
+ -570 0 l 1
+-135 0 m 1
+ -360 0 l 1
+ -360 40 l 1
+ -135 40 l 1
+ -135 0 l 1
+-418 625 m 1
+ -185 10 l 1
+ -282 15 l 1
+ -475 545 l 1
+ -428 625 l 1
+ -418 625 l 1
+-650 10 m 1
+ -709 10 l 1
+ -490 587 l 1
+ -428 625 l 1
+ -465 522 l 1
+ -650 10 l 1
+-1570 270 m 1
+ -1345 270 l 1
+ -1335 225 l 1
+ -1580 225 l 1
+ -1570 270 l 1
+-1560 0 m 1
+ -1745 0 l 1
+ -1745 40 l 1
+ -1560 40 l 1
+ -1560 0 l 1
+-1125 0 m 1
+ -1350 0 l 1
+ -1350 40 l 1
+ -1125 40 l 1
+ -1125 0 l 1
+-1408 625 m 1
+ -1175 10 l 1
+ -1273 15 l 1
+ -1465 542 l 1
+ -1418 625 l 1
+ -1408 625 l 1
+-1640 10 m 1
+ -1699 10 l 1
+ -1480 587 l 1
+ -1418 625 l 1
+ -1455 522 l 1
+ -1640 10 l 1
+740 10 m 1
+ 681 10 l 1
+ 923 620 l 1
+ 964 620 l 1
+ 925 498 l 1
+ 740 10 l 1
+1255 0 m 1
+ 1030 0 l 1
+ 1030 40 l 1
+ 1255 40 l 1
+ 1255 0 l 1
+820 0 m 1
+ 635 0 l 1
+ 635 40 l 1
+ 820 40 l 1
+ 820 0 l 1
+810 270 m 1
+ 1035 270 l 1
+ 1045 225 l 1
+ 800 225 l 1
+ 810 270 l 1
+964 620 m 1
+ 1205 10 l 1
+ 1107 17 l 1
+ 915 518 l 1
+ 964 620 l 1
+-2118.20996094 270 m 1
+ -1893.20996094 270 l 1
+ -1883.20996094 225 l 1
+ -2128.20996094 225 l 1
+ -2118.20996094 270 l 1
+-2108.20996094 0 m 1
+ -2293.20996094 0 l 1
+ -2293.20996094 40 l 1
+ -2108.20996094 40 l 1
+ -2108.20996094 0 l 1
+-1678.20996094 0 m 1
+ -1903.20996094 0 l 1
+ -1903.20996094 40 l 1
+ -1678.20996094 40 l 1
+ -1678.20996094 0 l 1
+-1958.20996094 620 m 1
+ -1728.20996094 10 l 1
+ -1826.20996094 15 l 1
+ -2018.20996094 542 l 1
+ -1968.20996094 620 l 1
+ -1958.20996094 620 l 1
+-2188.20996094 10 m 1
+ -2248.20996094 10 l 1
+ -2033.20996094 575 l 1
+ -1968.20996094 620 l 1
+ -2003.20996094 522 l 1
+ -2188.20996094 10 l 1
+EndSplineSet
+Fore
+SplineSet
+155 270 m 1
+ 380 270 l 1
+ 390 225 l 1
+ 145 225 l 1
+ 155 270 l 1
+165 0 m 1
+ -20 0 l 1
+ -20 40 l 1
+ 165 40 l 1
+ 165 0 l 1
+597 0 m 1
+ 375 0 l 1
+ 375 40 l 1
+ 597 40 l 1
+ 597 0 l 1
+317 620 m 1
+ 550 10 l 1
+ 455 15 l 1
+ 262 542 l 1
+ 307 620 l 1
+ 317 620 l 1
+85 10 m 1
+ 26 10 l 1
+ 250 595 l 1
+ 307 620 l 1
+ 272 525 l 1
+ 85 10 l 1
 EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 52 84 40
-Width: 490
+Encoding: 84 84 40
+Width: 510
 Flags: HMW
 LayerCount: 2
 Back
@@ -3631,34 +3732,34 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-77 555 m 1
- 45 555 29 540 17 455 c 1
- -20 455 l 1
- -10 625 l 1
- 25 625 l 1
- 25 605 35 600 55 600 c 1
- 425 600 l 1
- 450 600 465 605 465 625 c 1
- 500 625 l 1
- 505 455 l 1
- 468 455 l 1
- 461 545 445 555 410 555 c 1
- 77 555 l 1
-115 40 m 1
- 370 40 l 1
- 370 0 l 1
- 115 0 l 1
- 115 40 l 1
-285 580 m 1
- 285 20 l 1
- 200 20 l 1
- 200 580 l 1
- 285 580 l 1
+82 555 m 1
+ 50 555 34 540 22 455 c 1
+ -15 455 l 1
+ -5 625 l 1
+ 30 625 l 1
+ 30 605 40 600 60 600 c 1
+ 440 600 l 1
+ 465 600 480 605 480 625 c 1
+ 515 625 l 1
+ 520 455 l 1
+ 483 455 l 1
+ 476 545 460 555 425 555 c 1
+ 82 555 l 1
+125 40 m 1
+ 380 40 l 1
+ 380 0 l 1
+ 125 0 l 1
+ 125 40 l 1
+295 580 m 1
+ 295 20 l 1
+ 210 20 l 1
+ 210 580 l 1
+ 295 580 l 1
 EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 53 85 41
+Encoding: 85 85 41
 Width: 655
 Flags: HMW
 AnchorPoint: "accent_above_cap" 340 650 basechar 0
@@ -3735,7 +3836,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 34 66 42
+Encoding: 66 66 42
 Width: 525
 Flags: HMW
 LayerCount: 2
@@ -3888,7 +3989,7 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 46 78 43
+Encoding: 78 78 43
 Width: 705
 Flags: HMW
 AnchorPoint: "accent_above_cap" 350 650 basechar 0
@@ -4022,7 +4123,7 @@ EndSplineSet
 EndChar
 
 StartChar: R
-Encoding: 50 82 44
+Encoding: 82 82 44
 Width: 570
 Flags: HMW
 LayerCount: 2
@@ -4150,7 +4251,7 @@ EndSplineSet
 EndChar
 
 StartChar: P
-Encoding: 48 80 45
+Encoding: 80 80 45
 Width: 505
 Flags: HMW
 LayerCount: 2
@@ -4214,7 +4315,7 @@ EndSplineSet
 EndChar
 
 StartChar: Q
-Encoding: 49 81 46
+Encoding: 81 81 46
 Width: 700
 Flags: HMW
 LayerCount: 2
@@ -4262,10 +4363,10 @@ SplineSet
 296 -8 m 1
  296 4 l 1
  442 4 l 1
- 557 -85 665 -157 765 -157 c 1
+ 557 -85 665 -157 765 -157 c 3
  810 -157 852 -150 885 -130 c 9
  900 -160 l 1
- 852 -200 780 -220 710 -220 c 1
+ 852 -200 780 -220 710 -220 c 3
  600 -220 515 -155 415 -75 c 0
  363 -33 341 -15 296 -8 c 1
 132 315 m 0
@@ -4282,7 +4383,7 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 43 75 47
+Encoding: 75 75 47
 Width: 590
 Flags: HMW
 LayerCount: 2
@@ -4435,7 +4536,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 57 89 48
+Encoding: 89 89 48
 Width: 520
 Flags: HMW
 AnchorPoint: "accent_above_cap" 280 650 basechar 0
@@ -4573,83 +4674,11 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 55 87 49
+Encoding: 87 87 49
 Width: 815
 Flags: HMW
 LayerCount: 2
 Back
-SplineSet
-385 310 m 1
- 415 260 l 1
- 290 -18 l 1
- 255 -18 l 1
- 278 70 l 1
- 385 310 l 1
--35 600 m 1
- 175 600 l 1
- 175 560 l 1
- -35 560 l 1
- -35 600 l 1
-255 -18 m 1
- 10 590 l 1
- 108 585 l 1
- 310 75 l 1
- 255 -18 l 1
-670 600 m 1
- 845 600 l 1
- 845 560 l 1
- 670 560 l 1
- 670 600 l 1
-740 590 m 1
- 800 590 l 1
- 540 -18 l 1
- 505 -18 l 1
- 525 72 l 1
- 740 590 l 1
-215 600 m 1
- 610 600 l 1
- 610 560 l 1
- 215 560 l 1
- 215 600 l 1
-505 -18 m 1
- 255 590 l 1
- 350 585 l 1
- 557 70 l 1
- 505 -18 l 1
-520 590 m 1
- 578 590 l 1
- 443 295 l 1
- 415 350 l 1
- 520 590 l 1
--150 590 m 1
- -90 590 l 1
- -355 -18 l 1
- -390 -18 l 1
- -368 70 l 1
- -150 590 l 1
--390 -18 m 1
- -620 590 l 1
- -520 585 l 1
- -335 75 l 1
- -390 -18 l 1
--665 600 m 1
- -445 600 l 1
- -445 560 l 1
- -665 560 l 1
- -665 600 l 1
--165 590 m 1
- -105 590 l 1
- -355 -18 l 1
- -390 -18 l 1
- -370 70 l 1
- -165 590 l 1
--245 600 m 1
- -60 600 l 1
- -60 560 l 1
- -245 560 l 1
- -245 600 l 1
-EndSplineSet
-Fore
 SplineSet
 385 310 m 1
  415 260 l 1
@@ -4693,11 +4722,125 @@ SplineSet
  442 295 l 1
  415 350 l 1
  520 590 l 1
+-547 310 m 1
+ -517 260 l 1
+ -642 -18 l 1
+ -677 -18 l 1
+ -654 70 l 1
+ -547 310 l 1
+-967 600 m 1
+ -757 600 l 1
+ -757 560 l 1
+ -967 560 l 1
+ -967 600 l 1
+-677 -18 m 1
+ -922 590 l 1
+ -824 585 l 1
+ -622 75 l 1
+ -677 -18 l 1
+-262 600 m 1
+ -87 600 l 1
+ -87 560 l 1
+ -262 560 l 1
+ -262 600 l 1
+-192 590 m 1
+ -132 590 l 1
+ -392 -18 l 1
+ -427 -18 l 1
+ -407 72 l 1
+ -192 590 l 1
+-717 600 m 1
+ -322 600 l 1
+ -322 560 l 1
+ -717 560 l 1
+ -717 600 l 1
+-427 -18 m 1
+ -677 590 l 1
+ -582 585 l 1
+ -375 70 l 1
+ -427 -18 l 1
+-412 590 m 1
+ -354 590 l 1
+ -489 295 l 1
+ -517 350 l 1
+ -412 590 l 1
+-1082 590 m 1
+ -1022 590 l 1
+ -1287 -18 l 1
+ -1322 -18 l 1
+ -1300 70 l 1
+ -1082 590 l 1
+-1322 -18 m 1
+ -1552 590 l 1
+ -1452 585 l 1
+ -1267 75 l 1
+ -1322 -18 l 1
+-1597 600 m 1
+ -1377 600 l 1
+ -1377 560 l 1
+ -1597 560 l 1
+ -1597 600 l 1
+-1097 590 m 1
+ -1037 590 l 1
+ -1287 -18 l 1
+ -1322 -18 l 1
+ -1302 70 l 1
+ -1097 590 l 1
+-1177 600 m 1
+ -992 600 l 1
+ -992 560 l 1
+ -1177 560 l 1
+ -1177 600 l 1
+EndSplineSet
+Fore
+SplineSet
+385 310 m 1
+ 415 260 l 1
+ 290 -18 l 1
+ 255 -18 l 1
+ 279 70 l 1
+ 385 310 l 1
+-35 600 m 1
+ 175 600 l 1
+ 175 560 l 1
+ -35 560 l 1
+ -35 600 l 1
+255 -18 m 1
+ 10 590 l 1
+ 106 585 l 1
+ 308 70 l 1
+ 255 -18 l 1
+670 600 m 1
+ 845 600 l 1
+ 845 560 l 1
+ 670 560 l 1
+ 670 600 l 1
+740 590 m 1
+ 800 590 l 1
+ 540 -18 l 1
+ 505 -18 l 1
+ 526 70 l 1
+ 740 590 l 1
+215 600 m 1
+ 610 600 l 1
+ 610 560 l 1
+ 215 560 l 1
+ 215 600 l 1
+505 -18 m 1
+ 255 590 l 1
+ 348 585 l 1
+ 555 64 l 1
+ 505 -18 l 1
+520 590 m 1
+ 577 590 l 1
+ 442 295 l 1
+ 415 350 l 1
+ 520 590 l 1
 EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 35 67 50
+Encoding: 67 67 50
 Width: 632
 Flags: HMW
 LayerCount: 2
@@ -4755,7 +4898,7 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 36 68 51
+Encoding: 68 68 51
 Width: 680
 Flags: HMW
 LayerCount: 2
@@ -4785,7 +4928,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 12 44 52
+Encoding: 44 44 52
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -4838,31 +4981,36 @@ EndSplineSet
 EndChar
 
 StartChar: exclam
-Encoding: 1 33 53
+Encoding: 33 33 53
 Width: 290
 Flags: HMW
 LayerCount: 2
 Back
-SplineSet
-122 165 m 1
- 107 315 90 515 90 575 c 1
- 90 605 105 615 140 615 c 1
- 175 615 190 605 190 575 c 1
- 190 515 173 315 158 165 c 9
- 122 165 l 1
-85 45 m 0
- 85 75 110 100 140 100 c 0
- 170 100 195 75 195 45 c 0
- 195 15 170 -10 140 -10 c 0
- 110 -10 85 15 85 45 c 0
-EndSplineSet
-Fore
 SplineSet
 94 42 m 0
  94 70 117 93 145 93 c 0
  173 93 196 70 196 42 c 0
  196 14 173 -9 145 -9 c 0
  117 -9 94 14 94 42 c 0
+-269 165 m 1
+ -284 315 -301 515 -301 575 c 1
+ -301 605 -286 615 -251 615 c 1
+ -216 615 -201 605 -201 575 c 1
+ -201 515 -218 315 -233 165 c 9
+ -269 165 l 1
+-306 45 m 0
+ -306 75 -281 100 -251 100 c 0
+ -221 100 -196 75 -196 45 c 0
+ -196 15 -221 -10 -251 -10 c 0
+ -281 -10 -306 15 -306 45 c 0
+EndSplineSet
+Fore
+SplineSet
+93 42 m 0
+ 93 71 116 94 145 94 c 0
+ 174 94 197 71 197 42 c 0
+ 197 13 174 -10 145 -10 c 0
+ 116 -10 93 13 93 42 c 0
 155 620 m 17
  180 620 195 607 195 585 c 1
  195 545 177 340 162 170 c 9
@@ -4874,7 +5022,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 39 71 54
+Encoding: 71 71 54
 Width: 680
 Flags: HMW
 LayerCount: 2
@@ -4956,7 +5104,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 45 77 55
+Encoding: 77 77 55
 Width: 780
 Flags: HMW
 LayerCount: 2
@@ -5080,7 +5228,7 @@ EndSplineSet
 EndChar
 
 StartChar: S
-Encoding: 51 83 56
+Encoding: 83 83 56
 Width: 434
 Flags: HMW
 AnchorPoint: "accent_above_cap" 225 650 basechar 0
@@ -5142,7 +5290,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 15 47 57
+Encoding: 47 47 57
 Width: 340
 Flags: HMW
 LayerCount: 2
@@ -5157,7 +5305,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 7 39 58
+Encoding: 39 39 58
 Width: 200
 Flags: HMW
 LayerCount: 2
@@ -5184,7 +5332,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 56 88 59
+Encoding: 88 88 59
 Width: 580
 Flags: HMW
 LayerCount: 2
@@ -5332,7 +5480,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z
-Encoding: 58 90 60
+Encoding: 90 90 60
 Width: 555
 Flags: HMW
 LayerCount: 2
@@ -5375,7 +5523,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 60 92 61
+Encoding: 92 92 61
 Width: 340
 Flags: HMW
 LayerCount: 2
@@ -5398,7 +5546,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 211 8217 62
+Encoding: 8217 8217 62
 Width: 220
 Flags: HMW
 LayerCount: 2
@@ -5443,7 +5591,7 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 208 8211 63
+Encoding: 8211 8211 63
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -5458,7 +5606,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 209 8212 64
+Encoding: 8212 8212 64
 Width: 1000
 Flags: HMW
 LayerCount: 2
@@ -5473,7 +5621,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 210 8216 65
+Encoding: 8216 8216 65
 Width: 220
 Flags: HMW
 LayerCount: 2
@@ -5491,7 +5639,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 212 8218 66
+Encoding: 8218 8218 66
 Width: 220
 Flags: HMW
 LayerCount: 2
@@ -5511,7 +5659,7 @@ Refer: 62 8217 N 1 0 0 1 0 -525 2
 EndChar
 
 StartChar: quotedblleft
-Encoding: 213 8220 67
+Encoding: 8220 8220 67
 Width: 390
 Flags: HMW
 LayerCount: 2
@@ -5537,7 +5685,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 214 8221 68
+Encoding: 8221 8221 68
 Width: 390
 Flags: HMW
 LayerCount: 2
@@ -5563,7 +5711,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni201F
-Encoding: -1 8223 69
+Encoding: 8223 8223 69
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -5581,7 +5729,7 @@ EndSplineSet
 EndChar
 
 StartChar: dagger
-Encoding: 216 8224 70
+Encoding: 8224 8224 70
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -5709,7 +5857,7 @@ EndSplineSet
 EndChar
 
 StartChar: daggerdbl
-Encoding: 217 8225 71
+Encoding: 8225 8225 71
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -5894,7 +6042,7 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 218 8226 72
+Encoding: 8226 8226 72
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -5917,7 +6065,7 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 219 8230 73
+Encoding: 8230 8230 73
 Width: 810
 Flags: HMW
 LayerCount: 2
@@ -5942,7 +6090,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniFB00
-Encoding: 223 64256 74
+Encoding: 64256 64256 74
 Width: 540
 Flags: HMW
 LayerCount: 2
@@ -6035,7 +6183,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f f
 EndChar
 
 StartChar: uniFB01
-Encoding: 224 64257 75
+Encoding: 64257 64257 75
 Width: 510
 Flags: HMW
 LayerCount: 2
@@ -6347,7 +6495,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f i
 EndChar
 
 StartChar: uniFB02
-Encoding: 225 64258 76
+Encoding: 64258 64258 76
 Width: 524
 Flags: HMW
 LayerCount: 2
@@ -6430,7 +6578,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f l
 EndChar
 
 StartChar: uniFB03
-Encoding: 226 64259 77
+Encoding: 64259 64259 77
 Width: 765
 Flags: HMW
 LayerCount: 2
@@ -6557,7 +6705,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f f i
 EndChar
 
 StartChar: uniFB04
-Encoding: 227 64260 78
+Encoding: 64260 64260 78
 Width: 779
 Flags: HMW
 LayerCount: 2
@@ -6621,7 +6769,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f f l
 EndChar
 
 StartChar: colon
-Encoding: 26 58 79
+Encoding: 58 58 79
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -6641,7 +6789,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 27 59 80
+Encoding: 59 59 80
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -6664,7 +6812,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 2 34 81
+Encoding: 34 34 81
 Width: 340
 Flags: HMW
 LayerCount: 2
@@ -6688,7 +6836,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute
-Encoding: 115 180 82
+Encoding: 180 180 82
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -6705,8 +6853,8 @@ Refer: 143 769 N 1 0 0 1 125 0 2
 EndChar
 
 StartChar: two
-Encoding: 18 50 83
-Width: 440
+Encoding: 50 50 83
+Width: 470
 Flags: HMW
 LayerCount: 2
 Back
@@ -6728,26 +6876,26 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-235 270 m 3
- 235 307 205 335 170 335 c 3
- 135 335 105 308 90 280 c 1
- 60 300 l 1
- 90 355 135 400 200 400 c 3
- 265 400 320 350 320 290 c 3
- 320 215 285 178 145 68 c 1
- 325 68 l 1
- 345 68 355 83 370 125 c 1
- 405 125 l 1
- 380 0 l 1
- 45 0 l 1
- 45 30 l 1
- 185 150 235 200 235 270 c 3
+255 270 m 3
+ 255 307 225 335 190 335 c 3
+ 155 335 125 308 110 280 c 1
+ 80 300 l 1
+ 110 355 155 400 220 400 c 3
+ 285 400 340 350 340 290 c 3
+ 340 215 305 178 165 68 c 1
+ 345 68 l 1
+ 365 68 375 83 390 125 c 1
+ 425 125 l 1
+ 400 0 l 1
+ 65 0 l 1
+ 65 30 l 1
+ 205 150 255 200 255 270 c 3
 EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 19 51 84
-Width: 380
+Encoding: 51 51 84
+Width: 395
 Flags: HMW
 LayerCount: 2
 Back
@@ -6833,28 +6981,28 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-90 80 m 1
- 80 110 l 1
- 190 170 213 215 213 265 c 3
- 213 307 183 338 145 338 c 3
- 110 338 80 310 65 282 c 1
- 35 302 l 1
- 65 357 110 400 175 400 c 3
- 240 400 295 348 295 288 c 3
- 295 233 260 193 195 148 c 1
- 201 149 211 150 217 150 c 0
- 282 150 335 95 335 15 c 3
- 335 -120 205 -218 55 -250 c 1
- 40 -220 l 17
- 162 -185 255 -105 255 -5 c 3
- 255 60 218 100 163 100 c 3
- 135 100 115 92 90 80 c 1
+100 80 m 1
+ 90 110 l 1
+ 200 170 223 215 223 265 c 3
+ 223 307 193 338 155 338 c 3
+ 120 338 90 310 75 282 c 1
+ 45 302 l 1
+ 75 357 120 400 185 400 c 3
+ 250 400 305 348 305 288 c 3
+ 305 233 270 193 205 148 c 1
+ 211 149 221 150 227 150 c 0
+ 292 150 345 95 345 15 c 3
+ 345 -120 215 -218 65 -250 c 1
+ 50 -220 l 17
+ 172 -185 265 -105 265 -5 c 3
+ 265 60 228 100 173 100 c 3
+ 145 100 125 92 100 80 c 1
 EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 20 52 85
-Width: 490
+Encoding: 52 52 85
+Width: 495
 Flags: HMW
 LayerCount: 2
 Back
@@ -6873,23 +7021,23 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-20 55 m 1
+30 60 m 1
  315 405 l 25
  345 405 l 1
  345 -175 l 1
  271 -175 l 1
  271 290 l 1
- 105 90 l 1
+ 107 90 l 1
  475 90 l 1
  475 25 l 1
- 20 25 l 1
- 20 55 l 1
+ 30 25 l 1
+ 30 60 l 1
 EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 21 53 86
-Width: 385
+Encoding: 53 53 86
+Width: 395
 Flags: HMW
 LayerCount: 2
 Back
@@ -6952,22 +7100,22 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-85 390 m 25
- 330 390 l 1
- 320 320 l 25
- 120 320 l 1
- 113 280 l 1
- 253 185 315 120 315 0 c 3
- 315 -125 210 -225 60 -250 c 1
- 50 -220 l 1
- 170 -190 235 -110 235 -15 c 3
- 235 80 170 145 55 215 c 1
- 85 390 l 25
+95 390 m 25
+ 340 390 l 1
+ 330 320 l 25
+ 130 320 l 1
+ 123 280 l 1
+ 263 185 325 120 325 0 c 3
+ 325 -125 220 -225 70 -250 c 1
+ 60 -220 l 1
+ 180 -190 245 -110 245 -15 c 3
+ 245 80 180 145 65 215 c 1
+ 95 390 l 25
 EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 9 41 87
+Encoding: 41 41 87
 Width: 350
 Flags: HMW
 LayerCount: 2
@@ -6990,18 +7138,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-310 205 m 1
- 310 25 207 -130 50 -225 c 1
+308 205 m 1
+ 308 25 207 -130 50 -225 c 1
  30 -197 l 1
  147 -107 225 20 225 200 c 1
  225 380 147 507 30 597 c 1
  50 625 l 1
- 207 535 310 385 310 205 c 1
+ 207 535 308 385 308 205 c 1
 EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 8 40 88
+Encoding: 40 40 88
 Width: 350
 Flags: HMW
 LayerCount: 2
@@ -7024,18 +7172,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-40 195 m 1
- 40 375 143 530 300 625 c 1
+42 195 m 1
+ 42 375 143 530 300 625 c 1
  320 597 l 1
  203 507 125 380 125 200 c 1
  125 20 203 -107 320 -197 c 1
  300 -225 l 1
- 143 -135 40 15 40 195 c 1
+ 143 -135 42 15 42 195 c 1
 EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 61 93 89
+Encoding: 93 93 89
 Width: 340
 Flags: HMW
 LayerCount: 2
@@ -7064,7 +7212,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 59 91 90
+Encoding: 91 91 90
 Width: 340
 Flags: HMW
 LayerCount: 2
@@ -7095,8 +7243,8 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 22 54 91
-Width: 490
+Encoding: 54 54 91
+Width: 505
 Flags: HMW
 LayerCount: 2
 Back
@@ -7117,25 +7265,25 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-400 630 m 1
- 415 595 l 17
- 255 520 135 385 135 208 c 3
- 135 108 190 32 255 32 c 3
- 315 32 360 88 360 160 c 3
- 360 235 310 285 255 285 c 3
- 235 285 212 280 192 272 c 9
- 185 302 l 17
- 215 327 255 347 295 347 c 3
- 375 347 445 280 445 185 c 3
- 445 75 360 -10 240 -10 c 3
- 135 -10 50 75 50 195 c 3
- 50 395 210 560 400 630 c 1
+405 630 m 1
+ 420 595 l 17
+ 260 520 140 385 140 208 c 3
+ 140 108 195 32 260 32 c 3
+ 320 32 365 88 365 160 c 3
+ 365 235 315 285 260 285 c 3
+ 240 285 217 280 197 272 c 9
+ 190 302 l 17
+ 220 327 260 347 300 347 c 3
+ 380 347 450 280 450 185 c 3
+ 450 75 365 -10 245 -10 c 3
+ 140 -10 55 75 55 195 c 3
+ 55 395 215 560 405 630 c 1
 EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 25 57 92
-Width: 485
+Encoding: 57 57 92
+Width: 500
 Flags: HMW
 LayerCount: 2
 Back
@@ -7169,24 +7317,24 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-95 -245 m 1
- 80 -210 l 17
- 250 -135 350 -3 350 177 c 3
- 350 272 310 357 233 357 c 3
- 170 357 130 300 130 230 c 3
- 130 155 175 105 230 105 c 3
- 250 105 277 109 295 117 c 9
- 302 88 l 17
- 276 65 232 45 190 45 c 3
- 115 45 45 105 45 200 c 3
- 45 310 130 400 250 400 c 3
- 355 400 435 310 435 190 c 3
- 435 -15 300 -170 95 -245 c 1
+105 -245 m 1
+ 90 -210 l 17
+ 260 -135 360 -3 360 177 c 3
+ 360 272 320 357 243 357 c 3
+ 180 357 140 300 140 230 c 3
+ 140 155 185 105 240 105 c 3
+ 260 105 287 109 305 117 c 9
+ 312 88 l 17
+ 286 65 242 45 200 45 c 3
+ 125 45 55 105 55 200 c 3
+ 55 310 140 400 260 400 c 3
+ 365 400 445 310 445 190 c 3
+ 445 -15 310 -170 105 -245 c 1
 EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 23 55 93
+Encoding: 55 55 93
 Width: 430
 Flags: HMW
 LayerCount: 2
@@ -7219,52 +7367,11 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 24 56 94
-Width: 447
+Encoding: 56 56 94
+Width: 457
 Flags: HMW
 LayerCount: 2
 Back
-SplineSet
-220 611 m 3
- 300 611 367 550 367 480 c 3
- 367 420 320 370 250 325 c 1
- 225 340 l 1
- 265 375 290 415 290 465 c 3
- 290 520 262 569 210 569 c 3
- 163 569 128 530 128 480 c 3
- 128 420 181 386 250 340 c 0
- 325 290 388 245 388 155 c 3
- 388 58 297 -11 205 -11 c 3
- 115 -11 39 60 39 135 c 3
- 39 200 90 250 165 300 c 1
- 190 283 l 1
- 145 248 118 210 118 150 c 3
- 118 90 153 30 213 30 c 3
- 271 30 310 77 310 135 c 3
- 310 200 249 239 180 285 c 0
- 105 335 55 380 55 455 c 3
- 55 540 135 611 220 611 c 3
--195 611 m 3
- -115 611 -48 550 -48 475 c 3
- -48 420 -95 370 -165 325 c 1
- -190 340 l 1
- -150 375 -123 415 -123 465 c 3
- -123 520 -153 568 -205 568 c 3
- -255 568 -287 530 -287 480 c 3
- -287 420 -234 386 -165 340 c 0
- -90 290 -25 245 -25 155 c 3
- -25 58 -118 -11 -210 -11 c 3
- -300 -11 -377 60 -377 135 c 3
- -377 200 -325 250 -250 300 c 1
- -225 283 l 1
- -270 248 -300 210 -300 150 c 3
- -300 94 -267 31 -202 31 c 3
- -144 31 -105 77 -105 135 c 3
- -105 200 -166 239 -235 285 c 0
- -310 335 -360 380 -360 455 c 3
- -360 540 -280 611 -195 611 c 3
-EndSplineSet
-Fore
 SplineSet
 230 611 m 3
  310 611 377 550 377 480 c 3
@@ -7285,11 +7392,71 @@ SplineSet
  320 200 259 239 190 285 c 0
  115 335 65 380 65 455 c 3
  65 540 145 611 230 611 c 3
+-210 611 m 3
+ -130 611 -63 550 -63 480 c 3
+ -63 420 -110 370 -180 325 c 1
+ -205 340 l 1
+ -165 375 -140 415 -140 465 c 3
+ -140 520 -168 569 -220 569 c 3
+ -267 569 -302 530 -302 480 c 3
+ -302 420 -249 386 -180 340 c 0
+ -105 290 -42 245 -42 155 c 3
+ -42 58 -133 -11 -225 -11 c 3
+ -315 -11 -391 60 -391 135 c 3
+ -391 200 -340 250 -265 300 c 1
+ -240 283 l 1
+ -285 248 -312 210 -312 150 c 3
+ -312 90 -277 30 -217 30 c 3
+ -159 30 -120 77 -120 135 c 3
+ -120 200 -181 239 -250 285 c 0
+ -325 335 -375 380 -375 455 c 3
+ -375 540 -295 611 -210 611 c 3
+-625 611 m 3
+ -545 611 -478 550 -478 475 c 3
+ -478 420 -525 370 -595 325 c 1
+ -620 340 l 1
+ -580 375 -553 415 -553 465 c 3
+ -553 520 -583 568 -635 568 c 3
+ -685 568 -717 530 -717 480 c 3
+ -717 420 -664 386 -595 340 c 0
+ -520 290 -455 245 -455 155 c 3
+ -455 58 -548 -11 -640 -11 c 3
+ -730 -11 -807 60 -807 135 c 3
+ -807 200 -755 250 -680 300 c 1
+ -655 283 l 1
+ -700 248 -730 210 -730 150 c 3
+ -730 94 -697 31 -632 31 c 3
+ -574 31 -535 77 -535 135 c 3
+ -535 200 -596 239 -665 285 c 0
+ -740 335 -790 380 -790 455 c 3
+ -790 540 -710 611 -625 611 c 3
+EndSplineSet
+Fore
+SplineSet
+235 611 m 3
+ 315 611 382 550 382 480 c 3
+ 382 416 340 370 265 325 c 1
+ 240 340 l 1
+ 285 375 305 413 305 465 c 3
+ 305 520 277 569 225 569 c 3
+ 178 569 142 530 142 480 c 3
+ 142 420 194 386 263 340 c 0
+ 338 290 403 245 403 155 c 3
+ 403 58 312 -11 220 -11 c 3
+ 130 -11 54 60 54 135 c 3
+ 54 204 100 252 180 300 c 1
+ 205 283 l 1
+ 157 248 133 210 133 150 c 3
+ 133 90 168 30 228 30 c 3
+ 286 30 326 77 326 135 c 3
+ 326 202 266 240 197 285 c 0
+ 120 336 70 380 70 455 c 3
+ 70 540 150 611 235 611 c 3
 EndSplineSet
 EndChar
 
 StartChar: thorn
-Encoding: 189 254 95
+Encoding: 254 254 95
 Width: 478
 Flags: HMW
 LayerCount: 2
@@ -7337,7 +7504,7 @@ EndSplineSet
 EndChar
 
 StartChar: Eth
-Encoding: 143 208 96
+Encoding: 208 208 96
 Width: 680
 Flags: HMW
 LayerCount: 2
@@ -7420,7 +7587,7 @@ EndSplineSet
 EndChar
 
 StartChar: numbersign
-Encoding: 3 35 97
+Encoding: 35 35 97
 Width: 460
 Flags: HMW
 LayerCount: 2
@@ -7513,7 +7680,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 220 8249 98
+Encoding: 8249 8249 98
 Width: 260
 Flags: HMW
 LayerCount: 2
@@ -7542,7 +7709,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglright
-Encoding: 221 8250 99
+Encoding: 8250 8250 99
 Width: 260
 Flags: HMW
 LayerCount: 2
@@ -7571,7 +7738,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright
-Encoding: 122 187 100
+Encoding: 187 187 100
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -7624,7 +7791,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 106 171 101
+Encoding: 171 171 101
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -7669,28 +7836,48 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 31 63 102
-Width: 355
+Encoding: 63 63 102
+Width: 360
 Flags: HMW
 LayerCount: 2
 Back
 SplineSet
-79 42 m 0
- 79 70 102 93 130 93 c 0
- 158 93 181 70 181 42 c 0
- 181 14 158 -9 130 -9 c 0
- 102 -9 79 14 79 42 c 0
-150 257 m 1
- 150 170 l 1
- 110 170 l 1
- 110 335 l 1
- 205 338 260 370 260 432 c 0
- 260 487 220 537 170 537 c 0
- 143 537 128 528 108 528 c 0
- 86 528 69 547 69 572 c 0
- 69 595 93 612 123 612 c 0
- 213 612 320 502 320 402 c 0
- 320 324 260 274 150 257 c 1
+132 170 m 1
+ 115 205 100 250 100 285 c 3
+ 100 320 118 338 163 353 c 2
+ 193 363 l 2
+ 253 383 259 402 259 432 c 3
+ 259 487 215 540 165 540 c 3
+ 138 540 122 528 102 528 c 3
+ 80 528 64 548 64 573 c 3
+ 64 595 88 612 118 612 c 3
+ 213 612 320 504 320 390 c 3
+ 320 340 297 315 237 295 c 2
+ 213 287 l 2
+ 171 273 157 259 157 230 c 3
+ 157 210 160 192 164 170 c 9
+ 132 170 l 1
+99 42 m 0
+ 99 70 122 93 150 93 c 0
+ 178 93 201 70 201 42 c 0
+ 201 14 178 -9 150 -9 c 0
+ 122 -9 99 14 99 42 c 0
+-341 42 m 0
+ -341 70 -318 93 -290 93 c 0
+ -262 93 -239 70 -239 42 c 0
+ -239 14 -262 -9 -290 -9 c 0
+ -318 -9 -341 14 -341 42 c 0
+-270 257 m 1
+ -270 170 l 1
+ -310 170 l 1
+ -310 335 l 1
+ -215 338 -160 370 -160 432 c 0
+ -160 487 -200 537 -250 537 c 0
+ -277 537 -292 528 -312 528 c 0
+ -334 528 -351 547 -351 572 c 0
+ -351 595 -327 612 -297 612 c 0
+ -207 612 -100 502 -100 402 c 0
+ -100 324 -160 274 -270 257 c 1
 895 252 m 1
  895 170 l 1
  855 170 l 1
@@ -7713,117 +7900,113 @@ SplineSet
  819 105 843 122 873 122 c 0
  968 122 1072 15 1072 -90 c 0
  1072 -172 1005 -226 895 -238 c 1
--356 42 m 0
- -356 70 -333 93 -305 93 c 0
- -277 93 -254 70 -254 42 c 0
- -254 14 -277 -9 -305 -9 c 0
- -333 -9 -356 14 -356 42 c 0
--318 170 m 1
- -335 205 -350 250 -350 285 c 3
- -350 320 -332 338 -287 353 c 2
- -257 363 l 2
- -197 383 -186 402 -186 432 c 3
- -186 487 -230 540 -280 540 c 3
- -307 540 -323 528 -343 528 c 3
- -365 528 -381 548 -381 573 c 3
- -381 595 -357 612 -327 612 c 3
- -232 612 -125 505 -125 390 c 3
- -125 340 -153 315 -213 295 c 2
- -237 287 l 2
- -279 273 -293 259 -293 230 c 3
- -293 210 -290 192 -286 170 c 9
- -318 170 l 1
--356 42 m 0
- -356 70 -333 93 -305 93 c 0
- -277 93 -254 70 -254 42 c 0
- -254 14 -277 -9 -305 -9 c 0
- -333 -9 -356 14 -356 42 c 0
--800 170 m 1
- -768 170 l 17
- -772 192 -775 210 -775 230 c 3
- -775 258 -765 272 -719 287 c 2
- -695 295 l 2
- -635 315 -605 340 -605 390 c 3
- -605 505 -712 612 -807 612 c 3
- -837 612 -861 595 -861 573 c 3
- -861 548 -845 528 -823 528 c 3
- -803 528 -787 540 -760 540 c 3
- -710 540 -666 485 -666 430 c 3
- -666 395 -677 380 -737 360 c 2
- -767 350 l 2
- -812 335 -830 315 -830 280 c 3
- -830 245 -815 200 -800 170 c 1
--836 42 m 0
- -836 70 -813 93 -785 93 c 0
- -757 93 -734 70 -734 42 c 0
- -734 14 -757 -9 -785 -9 c 0
- -813 -9 -836 14 -836 42 c 0
--1160 170 m 1
- -1128 170 l 17
- -1132 192 -1135 210 -1135 230 c 3
- -1135 260 -1125 272 -1079 287 c 2
- -1055 295 l 2
- -995 315 -965 340 -965 390 c 3
- -965 505 -1075 610 -1170 610 c 3
- -1200 610 -1220 595 -1220 575 c 3
- -1220 550 -1205 530 -1185 530 c 3
- -1165 530 -1147 540 -1120 540 c 3
- -1070 540 -1025 484 -1025 429 c 3
- -1025 394 -1040 375 -1100 355 c 2
- -1127 346 l 2
- -1172 331 -1190 315 -1190 280 c 3
- -1190 245 -1175 200 -1160 170 c 1
--1196 42 m 0
- -1196 70 -1173 93 -1145 93 c 0
- -1117 93 -1094 70 -1094 42 c 0
- -1094 14 -1117 -9 -1145 -9 c 0
- -1173 -9 -1196 14 -1196 42 c 0
--1520 170 m 1
- -1488 170 l 17
- -1492 195 -1495 210 -1495 235 c 3
- -1495 265 -1475 275 -1415 295 c 0
- -1355 315 -1320 340 -1320 390 c 3
- -1320 505 -1430 615 -1525 615 c 3
- -1550 615 -1575 600 -1575 580 c 3
- -1575 555 -1560 535 -1540 535 c 3
- -1520 535 -1502 545 -1475 545 c 3
- -1425 545 -1380 489 -1380 429 c 3
- -1380 394 -1400 375 -1460 355 c 0
- -1520 335 -1550 322 -1550 280 c 3
- -1550 245 -1535 200 -1520 170 c 1
--1556 42 m 0
- -1556 70 -1533 93 -1505 93 c 0
- -1477 93 -1454 70 -1454 42 c 0
- -1454 14 -1477 -9 -1505 -9 c 0
- -1533 -9 -1556 14 -1556 42 c 0
+-776 42 m 0
+ -776 70 -753 93 -725 93 c 0
+ -697 93 -674 70 -674 42 c 0
+ -674 14 -697 -9 -725 -9 c 0
+ -753 -9 -776 14 -776 42 c 0
+-738 170 m 1
+ -755 205 -770 250 -770 285 c 3
+ -770 320 -752 338 -707 353 c 2
+ -677 363 l 2
+ -617 383 -606 402 -606 432 c 3
+ -606 487 -650 540 -700 540 c 3
+ -727 540 -743 528 -763 528 c 3
+ -785 528 -801 548 -801 573 c 3
+ -801 595 -777 612 -747 612 c 3
+ -652 612 -545 505 -545 390 c 3
+ -545 340 -573 315 -633 295 c 2
+ -657 287 l 2
+ -699 273 -713 259 -713 230 c 3
+ -713 210 -710 192 -706 170 c 9
+ -738 170 l 1
+-776 42 m 0
+ -776 70 -753 93 -725 93 c 0
+ -697 93 -674 70 -674 42 c 0
+ -674 14 -697 -9 -725 -9 c 0
+ -753 -9 -776 14 -776 42 c 0
+-1220 170 m 1
+ -1188 170 l 17
+ -1192 192 -1195 210 -1195 230 c 3
+ -1195 258 -1185 272 -1139 287 c 2
+ -1115 295 l 2
+ -1055 315 -1025 340 -1025 390 c 3
+ -1025 505 -1132 612 -1227 612 c 3
+ -1257 612 -1281 595 -1281 573 c 3
+ -1281 548 -1265 528 -1243 528 c 3
+ -1223 528 -1207 540 -1180 540 c 3
+ -1130 540 -1086 485 -1086 430 c 3
+ -1086 395 -1097 380 -1157 360 c 2
+ -1187 350 l 2
+ -1232 335 -1250 315 -1250 280 c 3
+ -1250 245 -1235 200 -1220 170 c 1
+-1256 42 m 0
+ -1256 70 -1233 93 -1205 93 c 0
+ -1177 93 -1154 70 -1154 42 c 0
+ -1154 14 -1177 -9 -1205 -9 c 0
+ -1233 -9 -1256 14 -1256 42 c 0
+-1580 170 m 1
+ -1548 170 l 17
+ -1552 192 -1555 210 -1555 230 c 3
+ -1555 260 -1545 272 -1499 287 c 2
+ -1475 295 l 2
+ -1415 315 -1385 340 -1385 390 c 3
+ -1385 505 -1495 610 -1590 610 c 3
+ -1620 610 -1640 595 -1640 575 c 3
+ -1640 550 -1625 530 -1605 530 c 3
+ -1585 530 -1567 540 -1540 540 c 3
+ -1490 540 -1445 484 -1445 429 c 3
+ -1445 394 -1460 375 -1520 355 c 2
+ -1547 346 l 2
+ -1592 331 -1610 315 -1610 280 c 3
+ -1610 245 -1595 200 -1580 170 c 1
+-1616 42 m 0
+ -1616 70 -1593 93 -1565 93 c 0
+ -1537 93 -1514 70 -1514 42 c 0
+ -1514 14 -1537 -9 -1565 -9 c 0
+ -1593 -9 -1616 14 -1616 42 c 0
+-1940 170 m 1
+ -1908 170 l 17
+ -1912 195 -1915 210 -1915 235 c 3
+ -1915 265 -1895 275 -1835 295 c 0
+ -1775 315 -1740 340 -1740 390 c 3
+ -1740 505 -1850 615 -1945 615 c 3
+ -1970 615 -1995 600 -1995 580 c 3
+ -1995 555 -1980 535 -1960 535 c 3
+ -1940 535 -1922 545 -1895 545 c 3
+ -1845 545 -1800 489 -1800 429 c 3
+ -1800 394 -1820 375 -1880 355 c 0
+ -1940 335 -1970 322 -1970 280 c 3
+ -1970 245 -1955 200 -1940 170 c 1
+-1976 42 m 0
+ -1976 70 -1953 93 -1925 93 c 0
+ -1897 93 -1874 70 -1874 42 c 0
+ -1874 14 -1897 -9 -1925 -9 c 0
+ -1953 -9 -1976 14 -1976 42 c 0
 EndSplineSet
 Fore
 SplineSet
-132 170 m 1
- 115 205 100 250 100 285 c 3
- 100 320 118 338 163 353 c 2
- 193 363 l 2
- 253 383 259 402 259 432 c 3
- 259 487 215 540 165 540 c 3
- 138 540 122 528 102 528 c 3
- 80 528 64 548 64 573 c 3
- 64 595 88 612 118 612 c 3
- 213 612 320 505 320 390 c 3
- 320 340 297 315 237 295 c 2
- 213 287 l 2
- 171 273 157 259 157 230 c 3
- 157 210 160 192 164 170 c 9
- 132 170 l 1
-99 42 m 0
- 99 70 122 93 150 93 c 0
- 178 93 201 70 201 42 c 0
- 201 14 178 -9 150 -9 c 0
- 122 -9 99 14 99 42 c 0
+78 42 m 0
+ 78 71 101 94 130 94 c 0
+ 159 94 182 71 182 42 c 0
+ 182 13 159 -10 130 -10 c 0
+ 101 -10 78 13 78 42 c 0
+150 258 m 1
+ 150 175 l 1
+ 110 175 l 1
+ 110 335 l 1
+ 215 350 260 377 260 432 c 0
+ 260 487 220 537 170 537 c 0
+ 143 537 128 528 108 528 c 0
+ 86 528 69 547 69 572 c 0
+ 69 595 93 612 123 612 c 0
+ 213 612 320 505 320 400 c 0
+ 320 325 270 288 150 258 c 1
 EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 5 37 103
+Encoding: 37 37 103
 Width: 750
 Flags: HMW
 LayerCount: 2
@@ -7931,7 +8114,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 6 38 104
+Encoding: 38 38 104
 Width: 690
 Flags: HMW
 LayerCount: 2
@@ -8088,7 +8271,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 10 42 105
+Encoding: 42 42 105
 Width: 370
 Flags: HMW
 LayerCount: 2
@@ -8242,8 +8425,8 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 113 178 106
-Width: 350
+Encoding: 178 178 106
+Width: 355
 Flags: HMW
 LayerCount: 2
 Back
@@ -8307,7 +8490,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 120 185 107
+Encoding: 185 185 107
 Width: 350
 Flags: HMW
 LayerCount: 2
@@ -8336,8 +8519,8 @@ SplineSet
  73 316 l 1
 76 565 m 1
  204 614 l 1
- 214 614 l 1
- 214 300 l 1
+ 214 614 l 5
+ 214 300 l 5
  152 300 l 1
  152 540 l 1
  76 538 l 1
@@ -8346,8 +8529,8 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 114 179 108
-Width: 350
+Encoding: 179 179 108
+Width: 355
 Flags: HMW
 LayerCount: 2
 Back
@@ -8448,7 +8631,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 11 43 109
+Encoding: 43 43 109
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -8481,7 +8664,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 29 61 110
+Encoding: 61 61 110
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -8519,7 +8702,7 @@ EndSplineSet
 EndChar
 
 StartChar: less
-Encoding: 28 60 111
+Encoding: 60 60 111
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -8576,7 +8759,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 30 62 112
+Encoding: 62 62 112
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -8637,7 +8820,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscore
-Encoding: 63 95 113
+Encoding: 95 95 113
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -8652,7 +8835,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 4 36 114
+Encoding: 36 36 114
 Width: 420
 Flags: HMW
 LayerCount: 2
@@ -8816,7 +8999,7 @@ EndSplineSet
 EndChar
 
 StartChar: onehalf
-Encoding: 124 189 115
+Encoding: 189 189 115
 Width: 750
 Flags: HMW
 LayerCount: 2
@@ -8833,7 +9016,7 @@ Refer: 107 185 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: onequarter
-Encoding: 123 188 116
+Encoding: 188 188 116
 Width: 750
 Flags: HMW
 LayerCount: 2
@@ -8888,7 +9071,7 @@ Refer: 107 185 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: bar
-Encoding: 92 124 117
+Encoding: 124 124 117
 Width: 215
 Flags: HMW
 LayerCount: 2
@@ -8903,7 +9086,7 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 112 177 118
+Encoding: 177 177 118
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -8941,7 +9124,7 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 101 166 119
+Encoding: 166 166 119
 Width: 215
 Flags: HMW
 LayerCount: 2
@@ -8969,7 +9152,7 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 118 183 120
+Encoding: 183 183 120
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -8986,7 +9169,7 @@ Refer: 12 46 N 1 0 0 1 0 170 2
 EndChar
 
 StartChar: exclamdown
-Encoding: 96 161 121
+Encoding: 161 161 121
 Width: 280
 Flags: HMW
 LayerCount: 2
@@ -9010,7 +9193,7 @@ Refer: 53 33 N -1 0 0 -1 280 389 2
 EndChar
 
 StartChar: cent
-Encoding: 97 162 122
+Encoding: 162 162 122
 Width: 420
 Flags: HMW
 LayerCount: 2
@@ -9052,7 +9235,7 @@ EndSplineSet
 EndChar
 
 StartChar: sterling
-Encoding: 98 163 123
+Encoding: 163 163 123
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -9089,7 +9272,7 @@ EndSplineSet
 EndChar
 
 StartChar: yen
-Encoding: 100 165 124
+Encoding: 165 165 124
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -9189,7 +9372,7 @@ EndSplineSet
 EndChar
 
 StartChar: Thorn
-Encoding: 157 222 125
+Encoding: 222 222 125
 Width: 505
 Flags: HMW
 LayerCount: 2
@@ -9254,7 +9437,7 @@ EndSplineSet
 EndChar
 
 StartChar: ae
-Encoding: 165 230 126
+Encoding: 230 230 126
 Width: 560
 Flags: HMW
 LayerCount: 2
@@ -9400,7 +9583,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 64 96 127
+Encoding: 96 96 127
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -9417,8 +9600,8 @@ Refer: 142 768 N 1 0 0 1 125 0 2
 EndChar
 
 StartChar: copyright
-Encoding: 104 169 128
-Width: 720
+Encoding: 169 169 128
+Width: 740
 Flags: HMW
 LayerCount: 2
 Back
@@ -9461,43 +9644,43 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-368 105 m 3
- 253 105 170 186 170 301 c 0
- 170 411 260 495 380 495 c 3
- 425 495 472 485 502 470 c 1
- 511 378 l 25
- 481 378 l 1
- 476 406 468 423 456 435 c 0
- 440 451 415 464 375 464 c 3
- 293 464 235 396 235 306 c 0
- 235 221 295 138 375 138 c 3
- 427 138 462 159 478 194 c 10
- 490 220 l 1
- 520 220 l 25
- 495 130 l 17
- 463 112 408 105 368 105 c 3
-93 300 m 0
- 93 151 212 30 360 30 c 0
- 508 30 627 151 627 300 c 0
- 627 449 508 570 360 570 c 0
- 212 570 93 449 93 300 c 0
-50 300 m 0
- 50 471 189 610 360 610 c 0
- 531 610 670 471 670 300 c 0
- 670 129 531 -10 360 -10 c 0
- 189 -10 50 129 50 300 c 0
+378 105 m 3
+ 263 105 180 186 180 301 c 0
+ 180 411 270 495 390 495 c 3
+ 435 495 482 485 512 470 c 1
+ 521 378 l 25
+ 491 378 l 1
+ 486 406 478 423 466 435 c 0
+ 450 451 425 464 385 464 c 3
+ 303 464 245 396 245 306 c 0
+ 245 221 305 138 385 138 c 3
+ 437 138 472 159 488 194 c 10
+ 500 220 l 1
+ 530 220 l 25
+ 505 130 l 17
+ 473 112 418 105 378 105 c 3
+103 300 m 0
+ 103 151 222 30 370 30 c 0
+ 518 30 637 151 637 300 c 0
+ 637 449 518 570 370 570 c 0
+ 222 570 103 449 103 300 c 0
+60 300 m 0
+ 60 471 199 610 370 610 c 0
+ 541 610 680 471 680 300 c 0
+ 680 129 541 -10 370 -10 c 0
+ 199 -10 60 129 60 300 c 0
 EndSplineSet
 EndChar
 
 StartChar: uni00A0
-Encoding: 95 160 129
+Encoding: 160 160 129
 Width: 210
 Flags: HMW
 LayerCount: 2
 EndChar
 
 StartChar: threequarters
-Encoding: 125 190 130
+Encoding: 190 190 130
 Width: 750
 Flags: HMW
 LayerCount: 2
@@ -9524,7 +9707,7 @@ Refer: 108 179 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dotlessi
-Encoding: 191 305 131
+Encoding: 305 305 131
 Width: 250
 Flags: HMW
 AnchorPoint: "accent_above" 128 455 basechar 0
@@ -9548,7 +9731,7 @@ EndSplineSet
 EndChar
 
 StartChar: AE
-Encoding: 133 198 132
+Encoding: 198 198 132
 Width: 735
 Flags: HMW
 LayerCount: 2
@@ -9624,7 +9807,7 @@ EndSplineSet
 EndChar
 
 StartChar: eacute
-Encoding: 168 233 133
+Encoding: 233 233 133
 Width: 378
 Flags: HMW
 LayerCount: 2
@@ -9634,7 +9817,7 @@ Refer: 25 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: egrave
-Encoding: 167 232 134
+Encoding: 232 232 134
 Width: 378
 Flags: HMW
 LayerCount: 2
@@ -9644,7 +9827,7 @@ Refer: 25 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: igrave
-Encoding: 171 236 135
+Encoding: 236 236 135
 Width: 250
 Flags: HM
 LayerCount: 2
@@ -9654,7 +9837,7 @@ Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iacute
-Encoding: 172 237 136
+Encoding: 237 237 136
 Width: 250
 Flags: HM
 LayerCount: 2
@@ -9664,7 +9847,7 @@ Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: multiply
-Encoding: 150 215 137
+Encoding: 215 215 137
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -9707,7 +9890,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 32 64 138
+Encoding: 64 64 138
 Width: 790
 Flags: HMW
 LayerCount: 2
@@ -9828,7 +10011,7 @@ EndSplineSet
 EndChar
 
 StartChar: OE
-Encoding: 192 338 139
+Encoding: 338 338 139
 Width: 905
 Flags: HMW
 LayerCount: 2
@@ -9928,7 +10111,7 @@ EndSplineSet
 EndChar
 
 StartChar: oe
-Encoding: 193 339 140
+Encoding: 339 339 140
 Width: 697
 Flags: HMW
 LayerCount: 2
@@ -9990,7 +10173,7 @@ EndSplineSet
 EndChar
 
 StartChar: germandbls
-Encoding: 158 223 141
+Encoding: 223 223 141
 Width: 515
 Flags: HMW
 LayerCount: 2
@@ -10278,7 +10461,7 @@ EndSplineSet
 EndChar
 
 StartChar: gravecomb
-Encoding: 195 768 142
+Encoding: 768 768 142
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 35 455 mark 0
@@ -10294,7 +10477,7 @@ EndSplineSet
 EndChar
 
 StartChar: acutecomb
-Encoding: 196 769 143
+Encoding: 769 769 143
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" -35 455 mark 0
@@ -10318,7 +10501,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0302
-Encoding: 197 770 144
+Encoding: 770 770 144
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10349,7 +10532,7 @@ SplineSet
 15 640 m 1
  125 455 l 1
  87 455 l 1
- 0 550 l 1
+ 0 552 l 1
  -87 455 l 1
  -125 455 l 1
  -15 640 l 1
@@ -10358,7 +10541,7 @@ EndSplineSet
 EndChar
 
 StartChar: tildecomb
-Encoding: 198 771 145
+Encoding: 771 771 145
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10415,7 +10598,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0304
-Encoding: 199 772 146
+Encoding: 772 772 146
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10431,7 +10614,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0306
-Encoding: 200 774 147
+Encoding: 774 774 147
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10460,7 +10643,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0307
-Encoding: 201 775 148
+Encoding: 775 775 148
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10489,7 +10672,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0308
-Encoding: 202 776 149
+Encoding: 776 776 149
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10523,7 +10706,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030A
-Encoding: 203 778 150
+Encoding: 778 778 150
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10577,7 +10760,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030B
-Encoding: 204 779 151
+Encoding: 779 779 151
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" -20 455 mark 0
@@ -10598,7 +10781,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030C
-Encoding: 205 780 152
+Encoding: 780 780 152
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_above" 0 455 mark 0
@@ -10619,7 +10802,7 @@ SplineSet
 -15 455 m 1
  -125 640 l 1
  -87 640 l 1
- 0 545 l 1
+ 0 543 l 1
  87 640 l 1
  125 640 l 1
  15 455 l 1
@@ -10628,7 +10811,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0327
-Encoding: 206 807 153
+Encoding: 807 807 153
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_below" 0 25 mark 0
@@ -10673,7 +10856,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0328
-Encoding: 207 808 154
+Encoding: 808 808 154
 Width: 0
 Flags: HMW
 AnchorPoint: "accent_below" 30 25 mark 0
@@ -10716,1153 +10899,11 @@ EndSplineSet
 EndChar
 
 StartChar: trademark
-Encoding: 222 8482 155
+Encoding: 8482 8482 155
 Width: 515
 Flags: HMW
 LayerCount: 2
 Back
-SplineSet
-254 56 m 1
- 254 54 l 1
- 260 54 l 1
- 260 56 l 1
- 254 56 l 1
-254 66 m 1
- 254 64 l 1
- 260 64 l 1
- 260 66 l 1
- 254 66 l 1
-256 29 m 1
- 256 19 l 1
- 258 19 l 1
- 258 29 l 1
- 256 29 l 1
-254 31 m 1
- 254 29 l 1
- 260 29 l 1
- 260 31 l 1
- 254 31 l 1
-256 64 m 1
- 256 56 l 1
- 258 56 l 1
- 258 64 l 1
- 256 64 l 1
-258 95 m 1
- 258 93 l 1
- 262 93 l 1
- 262 95 l 1
- 258 95 l 1
-258 101 m 1
- 258 99 l 1
- 264 99 l 1
- 264 101 l 1
- 258 101 l 1
-256 101 m 1
- 256 89 l 1
- 258 89 l 1
- 258 101 l 1
- 256 101 l 1
-256 134 m 1
- 256 126 l 1
- 258 126 l 1
- 258 134 l 1
- 256 134 l 1
-262 134 m 1
- 262 126 l 1
- 264 126 l 1
- 264 134 l 1
- 262 134 l 1
-258 126 m 1
- 258 124 l 1
- 262 124 l 1
- 262 126 l 1
- 258 126 l 1
-258 136 m 1
- 258 134 l 1
- 262 134 l 1
- 262 136 l 1
- 258 136 l 1
-262 163 m 1
- 262 159 l 1
- 264 159 l 1
- 264 163 l 1
- 262 163 l 1
-258 165 m 1
- 258 163 l 1
- 262 163 l 1
- 262 165 l 1
- 258 165 l 1
-262 169 m 1
- 262 165 l 1
- 264 165 l 1
- 264 169 l 1
- 262 169 l 1
-258 171 m 1
- 258 169 l 1
- 262 169 l 1
- 262 171 l 1
- 258 171 l 1
-256 171 m 1
- 256 159 l 1
- 258 159 l 1
- 258 171 l 1
- 256 171 l 1
-258 200 m 1
- 258 198 l 1
- 262 198 l 1
- 262 200 l 1
- 258 200 l 1
-262 204 m 1
- 262 200 l 1
- 264 200 l 1
- 264 204 l 1
- 262 204 l 1
-258 206 m 1
- 258 204 l 1
- 262 204 l 1
- 262 206 l 1
- 258 206 l 1
-256 206 m 1
- 256 194 l 1
- 258 194 l 1
- 258 206 l 1
- 256 206 l 1
-235 230 m 1
- 312 230 l 1
- 366 90 l 1
- 410 230 l 1
- 485 230 l 1
- 485 0 l 1
- 435 0 l 1
- 435 170 l 1
- 380 0 l 1
- 350 0 l 1
- 285 170 l 1
- 285 0 l 1
- 235 0 l 1
- 235 230 l 1
-161 214 m 1
- 161 206 l 1
- 163 206 l 1
- 163 214 l 1
- 161 214 l 1
-167 214 m 1
- 167 206 l 1
- 169 206 l 1
- 169 214 l 1
- 167 214 l 1
-163 206 m 1
- 163 204 l 1
- 167 204 l 1
- 167 206 l 1
- 163 206 l 1
-163 216 m 1
- 163 214 l 1
- 167 214 l 1
- 167 216 l 1
- 163 216 l 1
-142 208 m 1
- 142 204 l 1
- 144 204 l 1
- 144 208 l 1
- 142 208 l 1
-66 214 m 1
- 66 206 l 1
- 68 206 l 1
- 68 214 l 1
- 66 214 l 1
-72 214 m 1
- 72 206 l 1
- 74 206 l 1
- 74 214 l 1
- 72 214 l 1
-68 206 m 1
- 68 204 l 1
- 72 204 l 1
- 72 206 l 1
- 68 206 l 1
-68 216 m 1
- 68 214 l 1
- 72 214 l 1
- 72 216 l 1
- 68 216 l 1
-185 216 m 1
- 185 204 l 1
- 187 204 l 1
- 187 216 l 1
- 185 216 l 1
-187 206 m 1
- 187 204 l 1
- 191 204 l 1
- 191 206 l 1
- 187 206 l 1
-138 210 m 1
- 138 208 l 1
- 142 208 l 1
- 142 210 l 1
- 138 210 l 1
-142 214 m 1
- 142 210 l 1
- 144 210 l 1
- 144 214 l 1
- 142 214 l 1
-138 216 m 1
- 138 214 l 1
- 142 214 l 1
- 142 216 l 1
- 138 216 l 1
-136 216 m 1
- 136 204 l 1
- 138 204 l 1
- 138 216 l 1
- 136 216 l 1
-117 214 m 1
- 117 204 l 1
- 119 204 l 1
- 119 214 l 1
- 117 214 l 1
-115 216 m 1
- 115 214 l 1
- 121 214 l 1
- 121 216 l 1
- 115 216 l 1
-95 210 m 1
- 95 206 l 1
- 97 206 l 1
- 97 210 l 1
- 95 210 l 1
-93 214 m 1
- 93 210 l 1
- 95 210 l 1
- 95 214 l 1
- 93 214 l 1
-91 216 m 1
- 91 204 l 1
- 93 204 l 1
- 93 216 l 1
- 91 216 l 1
-97 216 m 1
- 97 204 l 1
- 99 204 l 1
- 99 216 l 1
- 97 216 l 1
-41 214 m 1
- 41 206 l 1
- 43 206 l 1
- 43 214 l 1
- 41 214 l 1
-47 208 m 1
- 47 206 l 1
- 49 206 l 1
- 49 208 l 1
- 47 208 l 1
-47 214 m 1
- 47 212 l 1
- 49 212 l 1
- 49 214 l 1
- 47 214 l 1
-43 206 m 1
- 43 204 l 1
- 47 204 l 1
- 47 206 l 1
- 43 206 l 1
-43 216 m 1
- 43 214 l 1
- 47 214 l 1
- 47 216 l 1
- 43 216 l 1
-109 62 m 1
- 109 60 l 1
- 115 60 l 1
- 115 62 l 1
- 109 62 l 1
-109 54 m 1
- 109 52 l 1
- 115 52 l 1
- 115 54 l 1
- 109 54 l 1
-111 60 m 1
- 111 54 l 1
- 113 54 l 1
- 113 60 l 1
- 111 60 l 1
-109 88 m 1
- 109 86 l 1
- 115 86 l 1
- 115 88 l 1
- 109 88 l 1
-109 92 m 1
- 109 90 l 1
- 117 90 l 1
- 117 92 l 1
- 109 92 l 1
-107 92 m 1
- 107 82 l 1
- 109 82 l 1
- 109 92 l 1
- 107 92 l 1
-107 120 m 1
- 107 114 l 1
- 109 114 l 1
- 109 120 l 1
- 107 120 l 1
-115 120 m 1
- 115 114 l 1
- 117 114 l 1
- 117 120 l 1
- 115 120 l 1
-109 114 m 1
- 109 112 l 1
- 115 112 l 1
- 115 114 l 1
- 109 114 l 1
-109 122 m 1
- 109 120 l 1
- 115 120 l 1
- 115 122 l 1
- 109 122 l 1
-115 144 m 1
- 115 142 l 1
- 117 142 l 1
- 117 144 l 1
- 115 144 l 1
-109 146 m 1
- 109 144 l 1
- 115 144 l 1
- 115 146 l 1
- 109 146 l 1
-115 150 m 1
- 115 146 l 1
- 117 146 l 1
- 117 150 l 1
- 115 150 l 1
-109 152 m 1
- 109 150 l 1
- 115 150 l 1
- 115 152 l 1
- 109 152 l 1
-107 152 m 1
- 107 142 l 1
- 109 142 l 1
- 109 152 l 1
- 107 152 l 1
-109 176 m 1
- 109 174 l 1
- 115 174 l 1
- 115 176 l 1
- 109 176 l 1
-115 180 m 1
- 115 176 l 1
- 117 176 l 1
- 117 180 l 1
- 115 180 l 1
-109 182 m 1
- 109 180 l 1
- 115 180 l 1
- 115 182 l 1
- 109 182 l 1
-107 182 m 1
- 107 172 l 1
- 109 172 l 1
- 109 182 l 1
- 107 182 l 1
-111 30 m 1
- 111 22 l 1
- 113 22 l 1
- 113 30 l 1
- 111 30 l 1
-107 32 m 1
- 107 30 l 1
- 117 30 l 1
- 117 32 l 1
- 107 32 l 1
-458 28 m 1
- 458 18 l 1
- 460 18 l 1
- 460 28 l 1
- 458 28 l 1
-460 20 m 1
- 460 18 l 1
- 468 18 l 1
- 468 20 l 1
- 460 20 l 1
-458 56 m 1
- 458 50 l 1
- 460 50 l 1
- 460 56 l 1
- 458 56 l 1
-466 56 m 1
- 466 50 l 1
- 468 50 l 1
- 468 56 l 1
- 466 56 l 1
-460 50 m 1
- 460 48 l 1
- 466 48 l 1
- 466 50 l 1
- 460 50 l 1
-460 58 m 1
- 460 56 l 1
- 466 56 l 1
- 466 58 l 1
- 460 58 l 1
-466 82 m 1
- 466 78 l 1
- 468 78 l 1
- 468 82 l 1
- 466 82 l 1
-460 84 m 1
- 460 82 l 1
- 466 82 l 1
- 466 84 l 1
- 460 84 l 1
-466 86 m 1
- 466 84 l 1
- 468 84 l 1
- 468 86 l 1
- 466 86 l 1
-460 88 m 1
- 460 86 l 1
- 466 86 l 1
- 466 88 l 1
- 460 88 l 1
-458 88 m 1
- 458 78 l 1
- 460 78 l 1
- 460 88 l 1
- 458 88 l 1
-462 116 m 1
- 462 108 l 1
- 464 108 l 1
- 464 116 l 1
- 462 116 l 1
-458 118 m 1
- 458 116 l 1
- 468 116 l 1
- 468 118 l 1
- 458 118 l 1
-462 144 m 1
- 462 142 l 1
- 464 142 l 1
- 464 144 l 1
- 462 144 l 1
-464 142 m 1
- 464 140 l 1
- 466 140 l 1
- 466 142 l 1
- 464 142 l 1
-460 146 m 1
- 460 144 l 1
- 462 144 l 1
- 462 146 l 1
- 460 146 l 1
-458 148 m 1
- 458 138 l 1
- 460 138 l 1
- 460 148 l 1
- 458 148 l 1
-466 148 m 1
- 466 138 l 1
- 468 138 l 1
- 468 148 l 1
- 466 148 l 1
-458 176 m 1
- 458 170 l 1
- 460 170 l 1
- 460 176 l 1
- 458 176 l 1
-466 176 m 1
- 466 170 l 1
- 468 170 l 1
- 468 176 l 1
- 466 176 l 1
-460 170 m 1
- 460 168 l 1
- 466 168 l 1
- 466 170 l 1
- 460 170 l 1
-460 178 m 1
- 460 176 l 1
- 466 176 l 1
- 466 178 l 1
- 460 178 l 1
-458 206 m 1
- 458 200 l 1
- 460 200 l 1
- 460 206 l 1
- 458 206 l 1
-466 202 m 1
- 466 200 l 1
- 468 200 l 1
- 468 202 l 1
- 466 202 l 1
-466 206 m 1
- 466 204 l 1
- 468 204 l 1
- 468 206 l 1
- 466 206 l 1
-460 200 m 1
- 460 198 l 1
- 466 198 l 1
- 466 200 l 1
- 460 200 l 1
-460 208 m 1
- 460 206 l 1
- 466 206 l 1
- 466 208 l 1
- 460 208 l 1
-90 192 m 1
- 140 192 l 1
- 140 0 l 1
- 90 0 l 1
- 90 192 l 1
-15 230 m 1
- 215 230 l 1
- 215 190 l 1
- 15 190 l 1
- 15 230 l 1
-260 420 m 1
- 260 415 l 1
- 275 415 l 1
- 275 420 l 1
- 260 420 l 1
-260 445 m 1
- 260 440 l 1
- 275 440 l 1
- 275 445 l 1
- 260 445 l 1
-265 405 m 1
- 265 380 l 1
- 270 380 l 1
- 270 405 l 1
- 265 405 l 1
-260 410 m 1
- 260 405 l 1
- 275 405 l 1
- 275 410 l 1
- 260 410 l 1
-265 440 m 1
- 265 420 l 1
- 270 420 l 1
- 270 440 l 1
- 265 440 l 1
-265 465 m 1
- 265 460 l 1
- 275 460 l 1
- 275 465 l 1
- 265 465 l 1
-265 480 m 1
- 265 475 l 1
- 280 475 l 1
- 280 480 l 1
- 265 480 l 1
-260 480 m 1
- 260 450 l 1
- 265 450 l 1
- 265 480 l 1
- 260 480 l 1
-260 510 m 1
- 260 490 l 1
- 265 490 l 1
- 265 510 l 1
- 260 510 l 1
-275 510 m 1
- 275 490 l 1
- 280 490 l 1
- 280 510 l 1
- 275 510 l 1
-265 490 m 1
- 265 485 l 1
- 275 485 l 1
- 275 490 l 1
- 265 490 l 1
-265 515 m 1
- 265 510 l 1
- 275 510 l 1
- 275 515 l 1
- 265 515 l 1
-275 530 m 1
- 275 520 l 1
- 280 520 l 1
- 280 530 l 1
- 275 530 l 1
-265 535 m 1
- 265 530 l 1
- 275 530 l 1
- 275 535 l 1
- 265 535 l 1
-275 545 m 1
- 275 535 l 1
- 280 535 l 1
- 280 545 l 1
- 275 545 l 1
-265 550 m 1
- 265 545 l 1
- 275 545 l 1
- 275 550 l 1
- 265 550 l 1
-260 550 m 1
- 260 520 l 1
- 265 520 l 1
- 265 550 l 1
- 260 550 l 1
-265 570 m 1
- 265 565 l 1
- 275 565 l 1
- 275 570 l 1
- 265 570 l 1
-275 580 m 1
- 275 570 l 1
- 280 570 l 1
- 280 580 l 1
- 275 580 l 1
-265 585 m 1
- 265 580 l 1
- 275 580 l 1
- 275 585 l 1
- 265 585 l 1
-260 585 m 1
- 260 555 l 1
- 265 555 l 1
- 265 585 l 1
- 260 585 l 1
-445 600 m 1
- 495 600 l 1
- 495 370 l 1
- 445 370 l 1
- 445 600 l 1
-245 600 m 1
- 295 600 l 1
- 295 370 l 1
- 245 370 l 1
- 245 600 l 1
--50 445 m 1
- -50 440 l 1
- -35 440 l 1
- -35 445 l 1
- -50 445 l 1
--50 425 m 1
- -50 420 l 1
- -35 420 l 1
- -35 425 l 1
- -50 425 l 1
--45 440 m 1
- -45 425 l 1
- -40 425 l 1
- -40 440 l 1
- -45 440 l 1
--50 465 m 1
- -50 460 l 1
- -35 460 l 1
- -35 465 l 1
- -50 465 l 1
--50 475 m 1
- -50 470 l 1
- -30 470 l 1
- -30 475 l 1
- -50 475 l 1
--55 475 m 1
- -55 450 l 1
- -50 450 l 1
- -50 475 l 1
- -55 475 l 1
--55 500 m 1
- -55 485 l 1
- -50 485 l 1
- -50 500 l 1
- -55 500 l 1
--35 500 m 1
- -35 485 l 1
- -30 485 l 1
- -30 500 l 1
- -35 500 l 1
--50 485 m 1
- -50 480 l 1
- -35 480 l 1
- -35 485 l 1
- -50 485 l 1
--50 505 m 1
- -50 500 l 1
- -35 500 l 1
- -35 505 l 1
- -50 505 l 1
--35 515 m 1
- -35 510 l 1
- -30 510 l 1
- -30 515 l 1
- -35 515 l 1
--50 520 m 1
- -50 515 l 1
- -35 515 l 1
- -35 520 l 1
- -50 520 l 1
--35 530 m 1
- -35 520 l 1
- -30 520 l 1
- -30 530 l 1
- -35 530 l 1
--50 535 m 1
- -50 530 l 1
- -35 530 l 1
- -35 535 l 1
- -50 535 l 1
--55 535 m 1
- -55 510 l 1
- -50 510 l 1
- -50 535 l 1
- -55 535 l 1
--50 550 m 1
- -50 545 l 1
- -35 545 l 1
- -35 550 l 1
- -50 550 l 1
--35 560 m 1
- -35 550 l 1
- -30 550 l 1
- -30 560 l 1
- -35 560 l 1
--50 565 m 1
- -50 560 l 1
- -35 560 l 1
- -35 565 l 1
- -50 565 l 1
--55 565 m 1
- -55 540 l 1
- -50 540 l 1
- -50 565 l 1
- -55 565 l 1
--45 410 m 1
- -45 390 l 1
- -40 390 l 1
- -40 410 l 1
- -45 410 l 1
--55 415 m 1
- -55 410 l 1
- -30 410 l 1
- -30 415 l 1
- -55 415 l 1
-80 700 m 1
- 80 680 l 1
- 85 680 l 1
- 85 700 l 1
- 80 700 l 1
-95 700 m 1
- 95 680 l 1
- 100 680 l 1
- 100 700 l 1
- 95 700 l 1
-85 680 m 1
- 85 675 l 1
- 95 675 l 1
- 95 680 l 1
- 85 680 l 1
-85 705 m 1
- 85 700 l 1
- 95 700 l 1
- 95 705 l 1
- 85 705 l 1
-70 685 m 1
- 70 675 l 1
- 75 675 l 1
- 75 685 l 1
- 70 685 l 1
--15 700 m 1
- -15 680 l 1
- -10 680 l 1
- -10 700 l 1
- -15 700 l 1
-0 700 m 1
- 0 680 l 1
- 5 680 l 1
- 5 700 l 1
- 0 700 l 1
--10 680 m 1
- -10 675 l 1
- 0 675 l 1
- 0 680 l 1
- -10 680 l 1
--10 705 m 1
- -10 700 l 1
- 0 700 l 1
- 0 705 l 1
- -10 705 l 1
-105 705 m 1
- 105 675 l 1
- 110 675 l 1
- 110 705 l 1
- 105 705 l 1
-110 680 m 1
- 110 675 l 1
- 120 675 l 1
- 120 680 l 1
- 110 680 l 1
-60 690 m 1
- 60 685 l 1
- 70 685 l 1
- 70 690 l 1
- 60 690 l 1
-70 700 m 1
- 70 690 l 1
- 75 690 l 1
- 75 700 l 1
- 70 700 l 1
-60 705 m 1
- 60 700 l 1
- 70 700 l 1
- 70 705 l 1
- 60 705 l 1
-55 705 m 1
- 55 675 l 1
- 60 675 l 1
- 60 705 l 1
- 55 705 l 1
-40 700 m 1
- 40 675 l 1
- 45 675 l 1
- 45 700 l 1
- 40 700 l 1
-35 705 m 1
- 35 700 l 1
- 50 700 l 1
- 50 705 l 1
- 35 705 l 1
-20 690 m 1
- 20 680 l 1
- 25 680 l 1
- 25 690 l 1
- 20 690 l 1
-15 700 m 1
- 15 690 l 1
- 20 690 l 1
- 20 700 l 1
- 15 700 l 1
-10 705 m 1
- 10 675 l 1
- 15 675 l 1
- 15 705 l 1
- 10 705 l 1
-25 705 m 1
- 25 675 l 1
- 30 675 l 1
- 30 705 l 1
- 25 705 l 1
--40 700 m 1
- -40 680 l 1
- -35 680 l 1
- -35 700 l 1
- -40 700 l 1
--25 685 m 1
- -25 680 l 1
- -20 680 l 1
- -20 685 l 1
- -25 685 l 1
--25 700 m 1
- -25 695 l 1
- -20 695 l 1
- -20 700 l 1
- -25 700 l 1
--35 680 m 1
- -35 675 l 1
- -25 675 l 1
- -25 680 l 1
- -35 680 l 1
--35 705 m 1
- -35 700 l 1
- -25 700 l 1
- -25 705 l 1
- -35 705 l 1
--125 385 m 1
- -125 360 l 1
- -120 360 l 1
- -120 385 l 1
- -125 385 l 1
--120 365 m 1
- -120 360 l 1
- -100 360 l 1
- -100 365 l 1
- -120 365 l 1
--125 410 m 1
- -125 395 l 1
- -120 395 l 1
- -120 410 l 1
- -125 410 l 1
--105 410 m 1
- -105 395 l 1
- -100 395 l 1
- -100 410 l 1
- -105 410 l 1
--120 395 m 1
- -120 390 l 1
- -105 390 l 1
- -105 395 l 1
- -120 395 l 1
--120 415 m 1
- -120 410 l 1
- -105 410 l 1
- -105 415 l 1
- -120 415 l 1
--105 430 m 1
- -105 420 l 1
- -100 420 l 1
- -100 430 l 1
- -105 430 l 1
--120 435 m 1
- -120 430 l 1
- -105 430 l 1
- -105 435 l 1
- -120 435 l 1
--105 440 m 1
- -105 435 l 1
- -100 435 l 1
- -100 440 l 1
- -105 440 l 1
--120 445 m 1
- -120 440 l 1
- -105 440 l 1
- -105 445 l 1
- -120 445 l 1
--125 445 m 1
- -125 420 l 1
- -120 420 l 1
- -120 445 l 1
- -125 445 l 1
--115 470 m 1
- -115 450 l 1
- -110 450 l 1
- -110 470 l 1
- -115 470 l 1
--125 475 m 1
- -125 470 l 1
- -100 470 l 1
- -100 475 l 1
- -125 475 l 1
--115 495 m 1
- -115 490 l 1
- -110 490 l 1
- -110 495 l 1
- -115 495 l 1
--110 490 m 1
- -110 485 l 1
- -105 485 l 1
- -105 490 l 1
- -110 490 l 1
--120 500 m 1
- -120 495 l 1
- -115 495 l 1
- -115 500 l 1
- -120 500 l 1
--125 505 m 1
- -125 480 l 1
- -120 480 l 1
- -120 505 l 1
- -125 505 l 1
--105 505 m 1
- -105 480 l 1
- -100 480 l 1
- -100 505 l 1
- -105 505 l 1
--125 530 m 1
- -125 515 l 1
- -120 515 l 1
- -120 530 l 1
- -125 530 l 1
--105 530 m 1
- -105 515 l 1
- -100 515 l 1
- -100 530 l 1
- -105 530 l 1
--120 515 m 1
- -120 510 l 1
- -105 510 l 1
- -105 515 l 1
- -120 515 l 1
--120 535 m 1
- -120 530 l 1
- -105 530 l 1
- -105 535 l 1
- -120 535 l 1
--125 560 m 1
- -125 545 l 1
- -120 545 l 1
- -120 560 l 1
- -125 560 l 1
--105 550 m 1
- -105 545 l 1
- -100 545 l 1
- -100 550 l 1
- -105 550 l 1
--105 560 m 1
- -105 555 l 1
- -100 555 l 1
- -100 560 l 1
- -105 560 l 1
--120 545 m 1
- -120 540 l 1
- -105 540 l 1
- -105 545 l 1
- -120 545 l 1
--120 565 m 1
- -120 560 l 1
- -105 560 l 1
- -105 565 l 1
- -120 565 l 1
-135 650 m 1
- 135 625 l 1
- 140 625 l 1
- 140 650 l 1
- 135 650 l 1
-130 655 m 1
- 130 650 l 1
- 145 650 l 1
- 145 655 l 1
- 130 655 l 1
-120 655 m 1
- 120 625 l 1
- 125 625 l 1
- 125 655 l 1
- 120 655 l 1
-105 640 m 1
- 105 635 l 1
- 115 635 l 1
- 115 640 l 1
- 105 640 l 1
-105 655 m 1
- 105 650 l 1
- 115 650 l 1
- 115 655 l 1
- 105 655 l 1
-100 655 m 1
- 100 625 l 1
- 105 625 l 1
- 105 655 l 1
- 100 655 l 1
-75 650 m 1
- 75 630 l 1
- 80 630 l 1
- 80 650 l 1
- 75 650 l 1
-90 650 m 1
- 90 630 l 1
- 95 630 l 1
- 95 650 l 1
- 90 650 l 1
-80 630 m 1
- 80 625 l 1
- 90 625 l 1
- 90 630 l 1
- 80 630 l 1
-80 655 m 1
- 80 650 l 1
- 90 650 l 1
- 90 655 l 1
- 80 655 l 1
-65 635 m 1
- 65 625 l 1
- 70 625 l 1
- 70 635 l 1
- 65 635 l 1
-55 640 m 1
- 55 635 l 1
- 65 635 l 1
- 65 640 l 1
- 55 640 l 1
-65 650 m 1
- 65 640 l 1
- 70 640 l 1
- 70 650 l 1
- 65 650 l 1
-55 655 m 1
- 55 650 l 1
- 65 650 l 1
- 65 655 l 1
- 55 655 l 1
-50 655 m 1
- 50 625 l 1
- 55 625 l 1
- 55 655 l 1
- 50 655 l 1
-30 640 m 1
- 30 635 l 1
- 40 635 l 1
- 40 640 l 1
- 30 640 l 1
-40 650 m 1
- 40 640 l 1
- 45 640 l 1
- 45 650 l 1
- 40 650 l 1
-30 655 m 1
- 30 650 l 1
- 40 650 l 1
- 40 655 l 1
- 30 655 l 1
-25 655 m 1
- 25 625 l 1
- 30 625 l 1
- 30 655 l 1
- 25 655 l 1
-436 386 m 1
- 534 386 l 1
- 534 370 l 1
- 436 370 l 1
- 436 386 l 1
-492 606 m 1
- 502 378 l 1
- 468 378 l 1
- 458 610 l 1
- 492 606 l 1
-232 386 m 1
- 314 386 l 1
- 314 370 l 1
- 232 370 l 1
- 232 386 l 1
-293 584 m 1
- 281 378 l 1
- 262 378 l 1
- 274 584 l 1
- 293 584 l 1
-366 367 m 1
- 286 568 l 1
- 274 584 l 1
- 270 590 263 594 251 594 c 1
- 238 594 l 1
- 238 610 l 1
- 308 610 l 1
- 390 400 l 1
- 366 367 l 1
-458 610 m 1
- 526 610 l 1
- 526 594 l 1
- 474 594 l 1
- 380 367 l 1
- 366 367 l 1
- 376 402 l 1
- 458 610 l 1
-51 592 m 1
- 38 592 32 586 27 552 c 1
- 12 552 l 1
- 16 620 l 1
- 30 620 l 1
- 30 612 34 610 42 610 c 1
- 190 610 l 1
- 200 610 206 612 206 620 c 1
- 220 620 l 1
- 222 552 l 1
- 207 552 l 1
- 204 588 198 592 184 592 c 1
- 51 592 l 1
-66 386 m 1
- 168 386 l 1
- 168 370 l 1
- 66 370 l 1
- 66 386 l 1
-134 602 m 1
- 134 378 l 1
- 100 378 l 1
- 100 602 l 1
- 134 602 l 1
-EndSplineSet
-Fore
 SplineSet
 117 546 m 1
  111 546 l 1
@@ -12236,11 +11277,1177 @@ SplineSet
  461 426 l 1
  467 426 l 1
  467 420 l 1
+-376 56 m 1
+ -376 54 l 1
+ -370 54 l 1
+ -370 56 l 1
+ -376 56 l 1
+-376 66 m 1
+ -376 64 l 1
+ -370 64 l 1
+ -370 66 l 1
+ -376 66 l 1
+-374 29 m 1
+ -374 19 l 1
+ -372 19 l 1
+ -372 29 l 1
+ -374 29 l 1
+-376 31 m 1
+ -376 29 l 1
+ -370 29 l 1
+ -370 31 l 1
+ -376 31 l 1
+-374 64 m 1
+ -374 56 l 1
+ -372 56 l 1
+ -372 64 l 1
+ -374 64 l 1
+-372 95 m 1
+ -372 93 l 1
+ -368 93 l 1
+ -368 95 l 1
+ -372 95 l 1
+-372 101 m 1
+ -372 99 l 1
+ -366 99 l 1
+ -366 101 l 1
+ -372 101 l 1
+-374 101 m 1
+ -374 89 l 1
+ -372 89 l 1
+ -372 101 l 1
+ -374 101 l 1
+-374 134 m 1
+ -374 126 l 1
+ -372 126 l 1
+ -372 134 l 1
+ -374 134 l 1
+-368 134 m 1
+ -368 126 l 1
+ -366 126 l 1
+ -366 134 l 1
+ -368 134 l 1
+-372 126 m 1
+ -372 124 l 1
+ -368 124 l 1
+ -368 126 l 1
+ -372 126 l 1
+-372 136 m 1
+ -372 134 l 1
+ -368 134 l 1
+ -368 136 l 1
+ -372 136 l 1
+-368 163 m 1
+ -368 159 l 1
+ -366 159 l 1
+ -366 163 l 1
+ -368 163 l 1
+-372 165 m 1
+ -372 163 l 1
+ -368 163 l 1
+ -368 165 l 1
+ -372 165 l 1
+-368 169 m 1
+ -368 165 l 1
+ -366 165 l 1
+ -366 169 l 1
+ -368 169 l 1
+-372 171 m 1
+ -372 169 l 1
+ -368 169 l 1
+ -368 171 l 1
+ -372 171 l 1
+-374 171 m 1
+ -374 159 l 1
+ -372 159 l 1
+ -372 171 l 1
+ -374 171 l 1
+-372 200 m 1
+ -372 198 l 1
+ -368 198 l 1
+ -368 200 l 1
+ -372 200 l 1
+-368 204 m 1
+ -368 200 l 1
+ -366 200 l 1
+ -366 204 l 1
+ -368 204 l 1
+-372 206 m 1
+ -372 204 l 1
+ -368 204 l 1
+ -368 206 l 1
+ -372 206 l 1
+-374 206 m 1
+ -374 194 l 1
+ -372 194 l 1
+ -372 206 l 1
+ -374 206 l 1
+-395 230 m 1
+ -318 230 l 1
+ -264 90 l 1
+ -220 230 l 1
+ -145 230 l 1
+ -145 0 l 1
+ -195 0 l 1
+ -195 170 l 1
+ -250 0 l 1
+ -280 0 l 1
+ -345 170 l 1
+ -345 0 l 1
+ -395 0 l 1
+ -395 230 l 1
+-469 214 m 1
+ -469 206 l 1
+ -467 206 l 1
+ -467 214 l 1
+ -469 214 l 1
+-463 214 m 1
+ -463 206 l 1
+ -461 206 l 1
+ -461 214 l 1
+ -463 214 l 1
+-467 206 m 1
+ -467 204 l 1
+ -463 204 l 1
+ -463 206 l 1
+ -467 206 l 1
+-467 216 m 1
+ -467 214 l 1
+ -463 214 l 1
+ -463 216 l 1
+ -467 216 l 1
+-488 208 m 1
+ -488 204 l 1
+ -486 204 l 1
+ -486 208 l 1
+ -488 208 l 1
+-564 214 m 1
+ -564 206 l 1
+ -562 206 l 1
+ -562 214 l 1
+ -564 214 l 1
+-558 214 m 1
+ -558 206 l 1
+ -556 206 l 1
+ -556 214 l 1
+ -558 214 l 1
+-562 206 m 1
+ -562 204 l 1
+ -558 204 l 1
+ -558 206 l 1
+ -562 206 l 1
+-562 216 m 1
+ -562 214 l 1
+ -558 214 l 1
+ -558 216 l 1
+ -562 216 l 1
+-445 216 m 1
+ -445 204 l 1
+ -443 204 l 1
+ -443 216 l 1
+ -445 216 l 1
+-443 206 m 1
+ -443 204 l 1
+ -439 204 l 1
+ -439 206 l 1
+ -443 206 l 1
+-492 210 m 1
+ -492 208 l 1
+ -488 208 l 1
+ -488 210 l 1
+ -492 210 l 1
+-488 214 m 1
+ -488 210 l 1
+ -486 210 l 1
+ -486 214 l 1
+ -488 214 l 1
+-492 216 m 1
+ -492 214 l 1
+ -488 214 l 1
+ -488 216 l 1
+ -492 216 l 1
+-494 216 m 1
+ -494 204 l 1
+ -492 204 l 1
+ -492 216 l 1
+ -494 216 l 1
+-513 214 m 1
+ -513 204 l 1
+ -511 204 l 1
+ -511 214 l 1
+ -513 214 l 1
+-515 216 m 1
+ -515 214 l 1
+ -509 214 l 1
+ -509 216 l 1
+ -515 216 l 1
+-535 210 m 1
+ -535 206 l 1
+ -533 206 l 1
+ -533 210 l 1
+ -535 210 l 1
+-537 214 m 1
+ -537 210 l 1
+ -535 210 l 1
+ -535 214 l 1
+ -537 214 l 1
+-539 216 m 1
+ -539 204 l 1
+ -537 204 l 1
+ -537 216 l 1
+ -539 216 l 1
+-533 216 m 1
+ -533 204 l 1
+ -531 204 l 1
+ -531 216 l 1
+ -533 216 l 1
+-589 214 m 1
+ -589 206 l 1
+ -587 206 l 1
+ -587 214 l 1
+ -589 214 l 1
+-583 208 m 1
+ -583 206 l 1
+ -581 206 l 1
+ -581 208 l 1
+ -583 208 l 1
+-583 214 m 1
+ -583 212 l 1
+ -581 212 l 1
+ -581 214 l 1
+ -583 214 l 1
+-587 206 m 1
+ -587 204 l 1
+ -583 204 l 1
+ -583 206 l 1
+ -587 206 l 1
+-587 216 m 1
+ -587 214 l 1
+ -583 214 l 1
+ -583 216 l 1
+ -587 216 l 1
+-521 62 m 1
+ -521 60 l 1
+ -515 60 l 1
+ -515 62 l 1
+ -521 62 l 1
+-521 54 m 1
+ -521 52 l 1
+ -515 52 l 1
+ -515 54 l 1
+ -521 54 l 1
+-519 60 m 1
+ -519 54 l 1
+ -517 54 l 1
+ -517 60 l 1
+ -519 60 l 1
+-521 88 m 1
+ -521 86 l 1
+ -515 86 l 1
+ -515 88 l 1
+ -521 88 l 1
+-521 92 m 1
+ -521 90 l 1
+ -513 90 l 1
+ -513 92 l 1
+ -521 92 l 1
+-523 92 m 1
+ -523 82 l 1
+ -521 82 l 1
+ -521 92 l 1
+ -523 92 l 1
+-523 120 m 1
+ -523 114 l 1
+ -521 114 l 1
+ -521 120 l 1
+ -523 120 l 1
+-515 120 m 1
+ -515 114 l 1
+ -513 114 l 1
+ -513 120 l 1
+ -515 120 l 1
+-521 114 m 1
+ -521 112 l 1
+ -515 112 l 1
+ -515 114 l 1
+ -521 114 l 1
+-521 122 m 1
+ -521 120 l 1
+ -515 120 l 1
+ -515 122 l 1
+ -521 122 l 1
+-515 144 m 1
+ -515 142 l 1
+ -513 142 l 1
+ -513 144 l 1
+ -515 144 l 1
+-521 146 m 1
+ -521 144 l 1
+ -515 144 l 1
+ -515 146 l 1
+ -521 146 l 1
+-515 150 m 1
+ -515 146 l 1
+ -513 146 l 1
+ -513 150 l 1
+ -515 150 l 1
+-521 152 m 1
+ -521 150 l 1
+ -515 150 l 1
+ -515 152 l 1
+ -521 152 l 1
+-523 152 m 1
+ -523 142 l 1
+ -521 142 l 1
+ -521 152 l 1
+ -523 152 l 1
+-521 176 m 1
+ -521 174 l 1
+ -515 174 l 1
+ -515 176 l 1
+ -521 176 l 1
+-515 180 m 1
+ -515 176 l 1
+ -513 176 l 1
+ -513 180 l 1
+ -515 180 l 1
+-521 182 m 1
+ -521 180 l 1
+ -515 180 l 1
+ -515 182 l 1
+ -521 182 l 1
+-523 182 m 1
+ -523 172 l 1
+ -521 172 l 1
+ -521 182 l 1
+ -523 182 l 1
+-519 30 m 1
+ -519 22 l 1
+ -517 22 l 1
+ -517 30 l 1
+ -519 30 l 1
+-523 32 m 1
+ -523 30 l 1
+ -513 30 l 1
+ -513 32 l 1
+ -523 32 l 1
+-172 28 m 1
+ -172 18 l 1
+ -170 18 l 1
+ -170 28 l 1
+ -172 28 l 1
+-170 20 m 1
+ -170 18 l 1
+ -162 18 l 1
+ -162 20 l 1
+ -170 20 l 1
+-172 56 m 1
+ -172 50 l 1
+ -170 50 l 1
+ -170 56 l 1
+ -172 56 l 1
+-164 56 m 1
+ -164 50 l 1
+ -162 50 l 1
+ -162 56 l 1
+ -164 56 l 1
+-170 50 m 1
+ -170 48 l 1
+ -164 48 l 1
+ -164 50 l 1
+ -170 50 l 1
+-170 58 m 1
+ -170 56 l 1
+ -164 56 l 1
+ -164 58 l 1
+ -170 58 l 1
+-164 82 m 1
+ -164 78 l 1
+ -162 78 l 1
+ -162 82 l 1
+ -164 82 l 1
+-170 84 m 1
+ -170 82 l 1
+ -164 82 l 1
+ -164 84 l 1
+ -170 84 l 1
+-164 86 m 1
+ -164 84 l 1
+ -162 84 l 1
+ -162 86 l 1
+ -164 86 l 1
+-170 88 m 1
+ -170 86 l 1
+ -164 86 l 1
+ -164 88 l 1
+ -170 88 l 1
+-172 88 m 1
+ -172 78 l 1
+ -170 78 l 1
+ -170 88 l 1
+ -172 88 l 1
+-168 116 m 1
+ -168 108 l 1
+ -166 108 l 1
+ -166 116 l 1
+ -168 116 l 1
+-172 118 m 1
+ -172 116 l 1
+ -162 116 l 1
+ -162 118 l 1
+ -172 118 l 1
+-168 144 m 1
+ -168 142 l 1
+ -166 142 l 1
+ -166 144 l 1
+ -168 144 l 1
+-166 142 m 1
+ -166 140 l 1
+ -164 140 l 1
+ -164 142 l 1
+ -166 142 l 1
+-170 146 m 1
+ -170 144 l 1
+ -168 144 l 1
+ -168 146 l 1
+ -170 146 l 1
+-172 148 m 1
+ -172 138 l 1
+ -170 138 l 1
+ -170 148 l 1
+ -172 148 l 1
+-164 148 m 1
+ -164 138 l 1
+ -162 138 l 1
+ -162 148 l 1
+ -164 148 l 1
+-172 176 m 1
+ -172 170 l 1
+ -170 170 l 1
+ -170 176 l 1
+ -172 176 l 1
+-164 176 m 1
+ -164 170 l 1
+ -162 170 l 1
+ -162 176 l 1
+ -164 176 l 1
+-170 170 m 1
+ -170 168 l 1
+ -164 168 l 1
+ -164 170 l 1
+ -170 170 l 1
+-170 178 m 1
+ -170 176 l 1
+ -164 176 l 1
+ -164 178 l 1
+ -170 178 l 1
+-172 206 m 1
+ -172 200 l 1
+ -170 200 l 1
+ -170 206 l 1
+ -172 206 l 1
+-164 202 m 1
+ -164 200 l 1
+ -162 200 l 1
+ -162 202 l 1
+ -164 202 l 1
+-164 206 m 1
+ -164 204 l 1
+ -162 204 l 1
+ -162 206 l 1
+ -164 206 l 1
+-170 200 m 1
+ -170 198 l 1
+ -164 198 l 1
+ -164 200 l 1
+ -170 200 l 1
+-170 208 m 1
+ -170 206 l 1
+ -164 206 l 1
+ -164 208 l 1
+ -170 208 l 1
+-540 192 m 1
+ -490 192 l 1
+ -490 0 l 1
+ -540 0 l 1
+ -540 192 l 1
+-615 230 m 1
+ -415 230 l 1
+ -415 190 l 1
+ -615 190 l 1
+ -615 230 l 1
+-370 420 m 1
+ -370 415 l 1
+ -355 415 l 1
+ -355 420 l 1
+ -370 420 l 1
+-370 445 m 1
+ -370 440 l 1
+ -355 440 l 1
+ -355 445 l 1
+ -370 445 l 1
+-365 405 m 1
+ -365 380 l 1
+ -360 380 l 1
+ -360 405 l 1
+ -365 405 l 1
+-370 410 m 1
+ -370 405 l 1
+ -355 405 l 1
+ -355 410 l 1
+ -370 410 l 1
+-365 440 m 1
+ -365 420 l 1
+ -360 420 l 1
+ -360 440 l 1
+ -365 440 l 1
+-365 465 m 1
+ -365 460 l 1
+ -355 460 l 1
+ -355 465 l 1
+ -365 465 l 1
+-365 480 m 1
+ -365 475 l 1
+ -350 475 l 1
+ -350 480 l 1
+ -365 480 l 1
+-370 480 m 1
+ -370 450 l 1
+ -365 450 l 1
+ -365 480 l 1
+ -370 480 l 1
+-370 510 m 1
+ -370 490 l 1
+ -365 490 l 1
+ -365 510 l 1
+ -370 510 l 1
+-355 510 m 1
+ -355 490 l 1
+ -350 490 l 1
+ -350 510 l 1
+ -355 510 l 1
+-365 490 m 1
+ -365 485 l 1
+ -355 485 l 1
+ -355 490 l 1
+ -365 490 l 1
+-365 515 m 1
+ -365 510 l 1
+ -355 510 l 1
+ -355 515 l 1
+ -365 515 l 1
+-355 530 m 1
+ -355 520 l 1
+ -350 520 l 1
+ -350 530 l 1
+ -355 530 l 1
+-365 535 m 1
+ -365 530 l 1
+ -355 530 l 1
+ -355 535 l 1
+ -365 535 l 1
+-355 545 m 1
+ -355 535 l 1
+ -350 535 l 1
+ -350 545 l 1
+ -355 545 l 1
+-365 550 m 1
+ -365 545 l 1
+ -355 545 l 1
+ -355 550 l 1
+ -365 550 l 1
+-370 550 m 1
+ -370 520 l 1
+ -365 520 l 1
+ -365 550 l 1
+ -370 550 l 1
+-365 570 m 1
+ -365 565 l 1
+ -355 565 l 1
+ -355 570 l 1
+ -365 570 l 1
+-355 580 m 1
+ -355 570 l 1
+ -350 570 l 1
+ -350 580 l 1
+ -355 580 l 1
+-365 585 m 1
+ -365 580 l 1
+ -355 580 l 1
+ -355 585 l 1
+ -365 585 l 1
+-370 585 m 1
+ -370 555 l 1
+ -365 555 l 1
+ -365 585 l 1
+ -370 585 l 1
+-185 600 m 1
+ -135 600 l 1
+ -135 370 l 1
+ -185 370 l 1
+ -185 600 l 1
+-385 600 m 1
+ -335 600 l 1
+ -335 370 l 1
+ -385 370 l 1
+ -385 600 l 1
+-680 445 m 1
+ -680 440 l 1
+ -665 440 l 1
+ -665 445 l 1
+ -680 445 l 1
+-680 425 m 1
+ -680 420 l 1
+ -665 420 l 1
+ -665 425 l 1
+ -680 425 l 1
+-675 440 m 1
+ -675 425 l 1
+ -670 425 l 1
+ -670 440 l 1
+ -675 440 l 1
+-680 465 m 1
+ -680 460 l 1
+ -665 460 l 1
+ -665 465 l 1
+ -680 465 l 1
+-680 475 m 1
+ -680 470 l 1
+ -660 470 l 1
+ -660 475 l 1
+ -680 475 l 1
+-685 475 m 1
+ -685 450 l 1
+ -680 450 l 1
+ -680 475 l 1
+ -685 475 l 1
+-685 500 m 1
+ -685 485 l 1
+ -680 485 l 1
+ -680 500 l 1
+ -685 500 l 1
+-665 500 m 1
+ -665 485 l 1
+ -660 485 l 1
+ -660 500 l 1
+ -665 500 l 1
+-680 485 m 1
+ -680 480 l 1
+ -665 480 l 1
+ -665 485 l 1
+ -680 485 l 1
+-680 505 m 1
+ -680 500 l 1
+ -665 500 l 1
+ -665 505 l 1
+ -680 505 l 1
+-665 515 m 1
+ -665 510 l 1
+ -660 510 l 1
+ -660 515 l 1
+ -665 515 l 1
+-680 520 m 1
+ -680 515 l 1
+ -665 515 l 1
+ -665 520 l 1
+ -680 520 l 1
+-665 530 m 1
+ -665 520 l 1
+ -660 520 l 1
+ -660 530 l 1
+ -665 530 l 1
+-680 535 m 1
+ -680 530 l 1
+ -665 530 l 1
+ -665 535 l 1
+ -680 535 l 1
+-685 535 m 1
+ -685 510 l 1
+ -680 510 l 1
+ -680 535 l 1
+ -685 535 l 1
+-680 550 m 1
+ -680 545 l 1
+ -665 545 l 1
+ -665 550 l 1
+ -680 550 l 1
+-665 560 m 1
+ -665 550 l 1
+ -660 550 l 1
+ -660 560 l 1
+ -665 560 l 1
+-680 565 m 1
+ -680 560 l 1
+ -665 560 l 1
+ -665 565 l 1
+ -680 565 l 1
+-685 565 m 1
+ -685 540 l 1
+ -680 540 l 1
+ -680 565 l 1
+ -685 565 l 1
+-675 410 m 1
+ -675 390 l 1
+ -670 390 l 1
+ -670 410 l 1
+ -675 410 l 1
+-685 415 m 1
+ -685 410 l 1
+ -660 410 l 1
+ -660 415 l 1
+ -685 415 l 1
+-550 700 m 1
+ -550 680 l 1
+ -545 680 l 1
+ -545 700 l 1
+ -550 700 l 1
+-535 700 m 1
+ -535 680 l 1
+ -530 680 l 1
+ -530 700 l 1
+ -535 700 l 1
+-545 680 m 1
+ -545 675 l 1
+ -535 675 l 1
+ -535 680 l 1
+ -545 680 l 1
+-545 705 m 1
+ -545 700 l 1
+ -535 700 l 1
+ -535 705 l 1
+ -545 705 l 1
+-560 685 m 1
+ -560 675 l 1
+ -555 675 l 1
+ -555 685 l 1
+ -560 685 l 1
+-645 700 m 1
+ -645 680 l 1
+ -640 680 l 1
+ -640 700 l 1
+ -645 700 l 1
+-630 700 m 1
+ -630 680 l 1
+ -625 680 l 1
+ -625 700 l 1
+ -630 700 l 1
+-640 680 m 1
+ -640 675 l 1
+ -630 675 l 1
+ -630 680 l 1
+ -640 680 l 1
+-640 705 m 1
+ -640 700 l 1
+ -630 700 l 1
+ -630 705 l 1
+ -640 705 l 1
+-525 705 m 1
+ -525 675 l 1
+ -520 675 l 1
+ -520 705 l 1
+ -525 705 l 1
+-520 680 m 1
+ -520 675 l 1
+ -510 675 l 1
+ -510 680 l 1
+ -520 680 l 1
+-570 690 m 1
+ -570 685 l 1
+ -560 685 l 1
+ -560 690 l 1
+ -570 690 l 1
+-560 700 m 1
+ -560 690 l 1
+ -555 690 l 1
+ -555 700 l 1
+ -560 700 l 1
+-570 705 m 1
+ -570 700 l 1
+ -560 700 l 1
+ -560 705 l 1
+ -570 705 l 1
+-575 705 m 1
+ -575 675 l 1
+ -570 675 l 1
+ -570 705 l 1
+ -575 705 l 1
+-590 700 m 1
+ -590 675 l 1
+ -585 675 l 1
+ -585 700 l 1
+ -590 700 l 1
+-595 705 m 1
+ -595 700 l 1
+ -580 700 l 1
+ -580 705 l 1
+ -595 705 l 1
+-610 690 m 1
+ -610 680 l 1
+ -605 680 l 1
+ -605 690 l 1
+ -610 690 l 1
+-615 700 m 1
+ -615 690 l 1
+ -610 690 l 1
+ -610 700 l 1
+ -615 700 l 1
+-620 705 m 1
+ -620 675 l 1
+ -615 675 l 1
+ -615 705 l 1
+ -620 705 l 1
+-605 705 m 1
+ -605 675 l 1
+ -600 675 l 1
+ -600 705 l 1
+ -605 705 l 1
+-670 700 m 1
+ -670 680 l 1
+ -665 680 l 1
+ -665 700 l 1
+ -670 700 l 1
+-655 685 m 1
+ -655 680 l 1
+ -650 680 l 1
+ -650 685 l 1
+ -655 685 l 1
+-655 700 m 1
+ -655 695 l 1
+ -650 695 l 1
+ -650 700 l 1
+ -655 700 l 1
+-665 680 m 1
+ -665 675 l 1
+ -655 675 l 1
+ -655 680 l 1
+ -665 680 l 1
+-665 705 m 1
+ -665 700 l 1
+ -655 700 l 1
+ -655 705 l 1
+ -665 705 l 1
+-755 385 m 1
+ -755 360 l 1
+ -750 360 l 1
+ -750 385 l 1
+ -755 385 l 1
+-750 365 m 1
+ -750 360 l 1
+ -730 360 l 1
+ -730 365 l 1
+ -750 365 l 1
+-755 410 m 1
+ -755 395 l 1
+ -750 395 l 1
+ -750 410 l 1
+ -755 410 l 1
+-735 410 m 1
+ -735 395 l 1
+ -730 395 l 1
+ -730 410 l 1
+ -735 410 l 1
+-750 395 m 1
+ -750 390 l 1
+ -735 390 l 1
+ -735 395 l 1
+ -750 395 l 1
+-750 415 m 1
+ -750 410 l 1
+ -735 410 l 1
+ -735 415 l 1
+ -750 415 l 1
+-735 430 m 1
+ -735 420 l 1
+ -730 420 l 1
+ -730 430 l 1
+ -735 430 l 1
+-750 435 m 1
+ -750 430 l 1
+ -735 430 l 1
+ -735 435 l 1
+ -750 435 l 1
+-735 440 m 1
+ -735 435 l 1
+ -730 435 l 1
+ -730 440 l 1
+ -735 440 l 1
+-750 445 m 1
+ -750 440 l 1
+ -735 440 l 1
+ -735 445 l 1
+ -750 445 l 1
+-755 445 m 1
+ -755 420 l 1
+ -750 420 l 1
+ -750 445 l 1
+ -755 445 l 1
+-745 470 m 1
+ -745 450 l 1
+ -740 450 l 1
+ -740 470 l 1
+ -745 470 l 1
+-755 475 m 1
+ -755 470 l 1
+ -730 470 l 1
+ -730 475 l 1
+ -755 475 l 1
+-745 495 m 1
+ -745 490 l 1
+ -740 490 l 1
+ -740 495 l 1
+ -745 495 l 1
+-740 490 m 1
+ -740 485 l 1
+ -735 485 l 1
+ -735 490 l 1
+ -740 490 l 1
+-750 500 m 1
+ -750 495 l 1
+ -745 495 l 1
+ -745 500 l 1
+ -750 500 l 1
+-755 505 m 1
+ -755 480 l 1
+ -750 480 l 1
+ -750 505 l 1
+ -755 505 l 1
+-735 505 m 1
+ -735 480 l 1
+ -730 480 l 1
+ -730 505 l 1
+ -735 505 l 1
+-755 530 m 1
+ -755 515 l 1
+ -750 515 l 1
+ -750 530 l 1
+ -755 530 l 1
+-735 530 m 1
+ -735 515 l 1
+ -730 515 l 1
+ -730 530 l 1
+ -735 530 l 1
+-750 515 m 1
+ -750 510 l 1
+ -735 510 l 1
+ -735 515 l 1
+ -750 515 l 1
+-750 535 m 1
+ -750 530 l 1
+ -735 530 l 1
+ -735 535 l 1
+ -750 535 l 1
+-755 560 m 1
+ -755 545 l 1
+ -750 545 l 1
+ -750 560 l 1
+ -755 560 l 1
+-735 550 m 1
+ -735 545 l 1
+ -730 545 l 1
+ -730 550 l 1
+ -735 550 l 1
+-735 560 m 1
+ -735 555 l 1
+ -730 555 l 1
+ -730 560 l 1
+ -735 560 l 1
+-750 545 m 1
+ -750 540 l 1
+ -735 540 l 1
+ -735 545 l 1
+ -750 545 l 1
+-750 565 m 1
+ -750 560 l 1
+ -735 560 l 1
+ -735 565 l 1
+ -750 565 l 1
+-495 650 m 1
+ -495 625 l 1
+ -490 625 l 1
+ -490 650 l 1
+ -495 650 l 1
+-500 655 m 1
+ -500 650 l 1
+ -485 650 l 1
+ -485 655 l 1
+ -500 655 l 1
+-510 655 m 1
+ -510 625 l 1
+ -505 625 l 1
+ -505 655 l 1
+ -510 655 l 1
+-525 640 m 1
+ -525 635 l 1
+ -515 635 l 1
+ -515 640 l 1
+ -525 640 l 1
+-525 655 m 1
+ -525 650 l 1
+ -515 650 l 1
+ -515 655 l 1
+ -525 655 l 1
+-530 655 m 1
+ -530 625 l 1
+ -525 625 l 1
+ -525 655 l 1
+ -530 655 l 1
+-555 650 m 1
+ -555 630 l 1
+ -550 630 l 1
+ -550 650 l 1
+ -555 650 l 1
+-540 650 m 1
+ -540 630 l 1
+ -535 630 l 1
+ -535 650 l 1
+ -540 650 l 1
+-550 630 m 1
+ -550 625 l 1
+ -540 625 l 1
+ -540 630 l 1
+ -550 630 l 1
+-550 655 m 1
+ -550 650 l 1
+ -540 650 l 1
+ -540 655 l 1
+ -550 655 l 1
+-565 635 m 1
+ -565 625 l 1
+ -560 625 l 1
+ -560 635 l 1
+ -565 635 l 1
+-575 640 m 1
+ -575 635 l 1
+ -565 635 l 1
+ -565 640 l 1
+ -575 640 l 1
+-565 650 m 1
+ -565 640 l 1
+ -560 640 l 1
+ -560 650 l 1
+ -565 650 l 1
+-575 655 m 1
+ -575 650 l 1
+ -565 650 l 1
+ -565 655 l 1
+ -575 655 l 1
+-580 655 m 1
+ -580 625 l 1
+ -575 625 l 1
+ -575 655 l 1
+ -580 655 l 1
+-600 640 m 1
+ -600 635 l 1
+ -590 635 l 1
+ -590 640 l 1
+ -600 640 l 1
+-590 650 m 1
+ -590 640 l 1
+ -585 640 l 1
+ -585 650 l 1
+ -590 650 l 1
+-600 655 m 1
+ -600 650 l 1
+ -590 650 l 1
+ -590 655 l 1
+ -600 655 l 1
+-605 655 m 1
+ -605 625 l 1
+ -600 625 l 1
+ -600 655 l 1
+ -605 655 l 1
+-194 386 m 1
+ -96 386 l 1
+ -96 370 l 1
+ -194 370 l 1
+ -194 386 l 1
+-138 606 m 1
+ -128 378 l 1
+ -162 378 l 1
+ -172 610 l 1
+ -138 606 l 1
+-398 386 m 1
+ -316 386 l 1
+ -316 370 l 1
+ -398 370 l 1
+ -398 386 l 1
+-337 584 m 1
+ -349 378 l 1
+ -368 378 l 1
+ -356 584 l 1
+ -337 584 l 1
+-264 367 m 1
+ -344 568 l 1
+ -356 584 l 1
+ -360 590 -367 594 -379 594 c 1
+ -392 594 l 1
+ -392 610 l 1
+ -322 610 l 1
+ -240 400 l 1
+ -264 367 l 1
+-172 610 m 1
+ -104 610 l 1
+ -104 594 l 1
+ -156 594 l 1
+ -250 367 l 1
+ -264 367 l 1
+ -254 402 l 1
+ -172 610 l 1
+-579 592 m 1
+ -592 592 -598 586 -603 552 c 1
+ -618 552 l 1
+ -614 620 l 1
+ -600 620 l 1
+ -600 612 -596 610 -588 610 c 1
+ -440 610 l 1
+ -430 610 -424 612 -424 620 c 1
+ -410 620 l 1
+ -408 552 l 1
+ -423 552 l 1
+ -426 588 -432 592 -446 592 c 1
+ -579 592 l 1
+-564 386 m 1
+ -462 386 l 1
+ -462 370 l 1
+ -564 370 l 1
+ -564 386 l 1
+-496 602 m 1
+ -496 378 l 1
+ -530 378 l 1
+ -530 602 l 1
+ -496 602 l 1
+EndSplineSet
+Fore
+SplineSet
+15 600 m 1
+ 215 600 l 1
+ 215 562 l 1
+ 15 562 l 1
+ 15 600 l 1
+91 570 m 1
+ 139 570 l 1
+ 139 370 l 1
+ 91 370 l 1
+ 91 570 l 1
+235 600 m 1
+ 306 600 l 1
+ 363 450 l 1
+ 410 600 l 1
+ 480 600 l 1
+ 480 370 l 1
+ 432 370 l 1
+ 432 542 l 1
+ 376 370 l 1
+ 344 370 l 1
+ 278 542 l 1
+ 278 370 l 1
+ 235 370 l 1
+ 235 600 l 1
 EndSplineSet
 EndChar
 
 StartChar: quotedblbase
-Encoding: 215 8222 156
+Encoding: 8222 8222 156
 Width: 390
 Flags: HMW
 LayerCount: 2
@@ -12260,7 +12467,7 @@ Refer: 68 8221 N 1 0 0 1 0 -525 2
 EndChar
 
 StartChar: dieresis
-Encoding: 103 168 157
+Encoding: 168 168 157
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -12269,7 +12476,7 @@ Refer: 149 776 N 1 0 0 1 125 0 2
 EndChar
 
 StartChar: macron
-Encoding: 110 175 158
+Encoding: 175 175 158
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -12278,7 +12485,7 @@ Refer: 146 772 N 1 0 0 1 125 0 2
 EndChar
 
 StartChar: degree
-Encoding: 111 176 159
+Encoding: 176 176 159
 Width: 280
 Flags: HMW
 LayerCount: 2
@@ -12321,7 +12528,7 @@ EndSplineSet
 EndChar
 
 StartChar: cedilla
-Encoding: 119 184 160
+Encoding: 184 184 160
 Width: 250
 Flags: HMW
 LayerCount: 2
@@ -12373,7 +12580,7 @@ Refer: 153 807 N 1 0 0 1 120 0 2
 EndChar
 
 StartChar: asciicircum
-Encoding: 62 94 161
+Encoding: 94 94 161
 Width: 360
 Flags: HMW
 LayerCount: 2
@@ -12410,7 +12617,7 @@ EndSplineSet
 EndChar
 
 StartChar: agrave
-Encoding: 159 224 162
+Encoding: 224 224 162
 Width: 382
 Flags: HMW
 LayerCount: 2
@@ -12420,7 +12627,7 @@ Refer: 14 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aacute
-Encoding: 160 225 163
+Encoding: 225 225 163
 Width: 382
 Flags: HMW
 LayerCount: 2
@@ -12430,7 +12637,7 @@ Refer: 14 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: acircumflex
-Encoding: 161 226 164
+Encoding: 226 226 164
 Width: 382
 Flags: HMW
 LayerCount: 2
@@ -12440,7 +12647,7 @@ Refer: 14 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: atilde
-Encoding: 162 227 165
+Encoding: 227 227 165
 Width: 382
 Flags: HMW
 LayerCount: 2
@@ -12450,7 +12657,7 @@ Refer: 14 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: adieresis
-Encoding: 163 228 166
+Encoding: 228 228 166
 Width: 382
 Flags: HMW
 LayerCount: 2
@@ -12460,7 +12667,7 @@ Refer: 14 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aring
-Encoding: 164 229 167
+Encoding: 229 229 167
 Width: 382
 Flags: HMW
 LayerCount: 2
@@ -12470,7 +12677,7 @@ Refer: 14 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
-Encoding: 169 234 168
+Encoding: 234 234 168
 Width: 378
 Flags: HMW
 LayerCount: 2
@@ -12480,7 +12687,7 @@ Refer: 25 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edieresis
-Encoding: 170 235 169
+Encoding: 235 235 169
 Width: 378
 Flags: HMW
 LayerCount: 2
@@ -12490,7 +12697,7 @@ Refer: 25 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: icircumflex
-Encoding: 173 238 170
+Encoding: 238 238 170
 Width: 250
 Flags: HM
 LayerCount: 2
@@ -12500,7 +12707,7 @@ Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: idieresis
-Encoding: 174 239 171
+Encoding: 239 239 171
 Width: 250
 Flags: HM
 LayerCount: 2
@@ -12510,7 +12717,7 @@ Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ntilde
-Encoding: 176 241 172
+Encoding: 241 241 172
 Width: 490
 Flags: HM
 LayerCount: 2
@@ -12520,7 +12727,7 @@ Refer: 0 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ograve
-Encoding: 177 242 173
+Encoding: 242 242 173
 Width: 456
 Flags: HM
 LayerCount: 2
@@ -12530,7 +12737,7 @@ Refer: 2 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oacute
-Encoding: 178 243 174
+Encoding: 243 243 174
 Width: 456
 Flags: HM
 LayerCount: 2
@@ -12540,7 +12747,7 @@ Refer: 2 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ocircumflex
-Encoding: 179 244 175
+Encoding: 244 244 175
 Width: 456
 Flags: HM
 LayerCount: 2
@@ -12550,7 +12757,7 @@ Refer: 2 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: otilde
-Encoding: 180 245 176
+Encoding: 245 245 176
 Width: 456
 Flags: HM
 LayerCount: 2
@@ -12560,7 +12767,7 @@ Refer: 2 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: odieresis
-Encoding: 181 246 177
+Encoding: 246 246 177
 Width: 456
 Flags: HM
 LayerCount: 2
@@ -12570,7 +12777,7 @@ Refer: 2 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ugrave
-Encoding: 184 249 178
+Encoding: 249 249 178
 Width: 490
 Flags: HM
 LayerCount: 2
@@ -12580,7 +12787,7 @@ Refer: 9 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uacute
-Encoding: 185 250 179
+Encoding: 250 250 179
 Width: 490
 Flags: HM
 LayerCount: 2
@@ -12590,7 +12797,7 @@ Refer: 9 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ucircumflex
-Encoding: 186 251 180
+Encoding: 251 251 180
 Width: 490
 Flags: HM
 LayerCount: 2
@@ -12600,7 +12807,7 @@ Refer: 9 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: udieresis
-Encoding: 187 252 181
+Encoding: 252 252 181
 Width: 490
 Flags: HM
 LayerCount: 2
@@ -12610,7 +12817,7 @@ Refer: 9 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: yacute
-Encoding: 188 253 182
+Encoding: 253 253 182
 Width: 435
 Flags: HM
 LayerCount: 2
@@ -12620,7 +12827,7 @@ Refer: 33 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: braceright
-Encoding: 93 125 183
+Encoding: 125 125 183
 Width: 350
 Flags: HMW
 LayerCount: 2
@@ -12677,7 +12884,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 91 123 184
+Encoding: 123 123 184
 Width: 350
 Flags: HMW
 LayerCount: 2
@@ -12711,8 +12918,8 @@ Refer: 183 125 N -1 0 0 -1 350 400 2
 EndChar
 
 StartChar: questiondown
-Encoding: 126 191 185
-Width: 340
+Encoding: 191 191 185
+Width: 350
 Flags: HMW
 LayerCount: 2
 Back
@@ -12739,11 +12946,11 @@ SplineSet
  107 -9 84 14 84 42 c 0
 EndSplineSet
 Fore
-Refer: 102 63 N -1 0 0 -1 340 389 2
+Refer: 102 63 N -1 0 0 -1 350 389 2
 EndChar
 
 StartChar: asciitilde
-Encoding: 94 126 186
+Encoding: 126 126 186
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -12772,7 +12979,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00AD
-Encoding: 108 173 187
+Encoding: 173 173 187
 Width: 260
 Flags: HMW
 LayerCount: 2
@@ -12781,7 +12988,7 @@ Refer: 38 45 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ccedilla
-Encoding: 166 231 188
+Encoding: 231 231 188
 Width: 375
 UnlinkRmOvrlpSave: 1
 Flags: HM
@@ -12792,7 +12999,7 @@ Refer: 27 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eth
-Encoding: 175 240 189
+Encoding: 240 240 189
 Width: 460
 Flags: HMW
 LayerCount: 2
@@ -12877,7 +13084,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 183 248 190
+Encoding: 248 248 190
 Width: 456
 UnlinkRmOvrlpSave: 1
 Flags: HMW
@@ -12907,7 +13114,7 @@ Refer: 2 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: divide
-Encoding: 182 247 191
+Encoding: 247 247 191
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -12955,7 +13162,7 @@ EndSplineSet
 EndChar
 
 StartChar: logicalnot
-Encoding: 107 172 192
+Encoding: 172 172 192
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -12988,7 +13195,7 @@ EndSplineSet
 EndChar
 
 StartChar: ydieresis
-Encoding: 190 255 193
+Encoding: 255 255 193
 Width: 435
 Flags: HMW
 LayerCount: 2
@@ -12998,7 +13205,7 @@ Refer: 33 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gravecomb.cap
-Encoding: 228 -1 194
+Encoding: 1114112 -1 194
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13023,7 +13230,7 @@ EndSplineSet
 EndChar
 
 StartChar: acutecomb.cap
-Encoding: 229 -1 195
+Encoding: 1114113 -1 195
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13053,7 +13260,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0302.cap
-Encoding: 230 -1 196
+Encoding: 1114114 -1 196
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13089,7 +13296,7 @@ EndSplineSet
 EndChar
 
 StartChar: tildecomb.cap
-Encoding: 231 -1 197
+Encoding: 1114115 -1 197
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13137,7 +13344,7 @@ EndSplineSet
 EndChar
 
 StartChar: macroncomb.cap
-Encoding: 232 -1 198
+Encoding: 1114116 -1 198
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13165,7 +13372,7 @@ EndSplineSet
 EndChar
 
 StartChar: brevecomb.cap
-Encoding: 233 -1 199
+Encoding: 1114117 -1 199
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13202,7 +13409,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0307.cap
-Encoding: 234 -1 200
+Encoding: 1114118 -1 200
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13227,7 +13434,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0308.cap
-Encoding: 235 -1 201
+Encoding: 1114119 -1 201
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13262,7 +13469,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030A.cap
-Encoding: 236 -1 202
+Encoding: 1114120 -1 202
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13297,7 +13504,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030b.cap
-Encoding: 237 -1 203
+Encoding: 1114121 -1 203
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13337,7 +13544,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030C.cap
-Encoding: 238 -1 204
+Encoding: 1114122 -1 204
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13368,7 +13575,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0327.cap
-Encoding: 239 -1 205
+Encoding: 1114123 -1 205
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13414,7 +13621,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0328.cap
-Encoding: 240 -1 206
+Encoding: 1114124 -1 206
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13456,7 +13663,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.65549
-Encoding: 241 -1 207
+Encoding: 1114125 -1 207
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -13471,7 +13678,7 @@ EndSplineSet
 EndChar
 
 StartChar: longs
-Encoding: 194 383 208
+Encoding: 383 383 208
 Width: 275
 Flags: HMW
 LayerCount: 2
@@ -13501,7 +13708,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ograve
-Encoding: 145 210 209
+Encoding: 210 210 209
 Width: 700
 Flags: HM
 LayerCount: 2
@@ -13511,7 +13718,7 @@ Refer: 18 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Oacute
-Encoding: 146 211 210
+Encoding: 211 211 210
 Width: 700
 Flags: HM
 LayerCount: 2
@@ -13521,7 +13728,7 @@ Refer: 18 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 147 212 211
+Encoding: 212 212 211
 Width: 700
 Flags: HMW
 LayerCount: 2
@@ -13531,7 +13738,7 @@ Refer: 18 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Otilde
-Encoding: 148 213 212
+Encoding: 213 213 212
 Width: 700
 Flags: HMW
 LayerCount: 2
@@ -13541,7 +13748,7 @@ Refer: 18 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Odieresis
-Encoding: 149 214 213
+Encoding: 214 214 213
 Width: 700
 Flags: HMW
 LayerCount: 2
@@ -13551,7 +13758,7 @@ Refer: 18 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Agrave
-Encoding: 127 192 214
+Encoding: 192 192 214
 Width: 590
 Flags: HMW
 LayerCount: 2
@@ -13561,7 +13768,7 @@ Refer: 39 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aacute
-Encoding: 128 193 215
+Encoding: 193 193 215
 Width: 590
 Flags: HMW
 LayerCount: 2
@@ -13571,7 +13778,7 @@ Refer: 39 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Acircumflex
-Encoding: 129 194 216
+Encoding: 194 194 216
 Width: 590
 Flags: HMW
 LayerCount: 2
@@ -13581,7 +13788,7 @@ Refer: 39 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Atilde
-Encoding: 130 195 217
+Encoding: 195 195 217
 Width: 590
 Flags: HMW
 LayerCount: 2
@@ -13591,7 +13798,7 @@ Refer: 39 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Adieresis
-Encoding: 131 196 218
+Encoding: 196 196 218
 Width: 590
 Flags: HMW
 LayerCount: 2
@@ -13601,7 +13808,7 @@ Refer: 39 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aring
-Encoding: 132 197 219
+Encoding: 197 197 219
 Width: 590
 UnlinkRmOvrlpSave: 1
 Flags: HMW
@@ -13709,7 +13916,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ccedilla
-Encoding: 134 199 220
+Encoding: 199 199 220
 Width: 632
 UnlinkRmOvrlpSave: 1
 Flags: HMW
@@ -13720,7 +13927,7 @@ Refer: 50 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Egrave
-Encoding: 135 200 221
+Encoding: 200 200 221
 Width: 530
 Flags: HMW
 LayerCount: 2
@@ -13730,7 +13937,7 @@ Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eacute
-Encoding: 136 201 222
+Encoding: 201 201 222
 Width: 530
 Flags: HMW
 LayerCount: 2
@@ -13740,7 +13947,7 @@ Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 137 202 223
+Encoding: 202 202 223
 Width: 530
 Flags: HMW
 LayerCount: 2
@@ -13750,7 +13957,7 @@ Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edieresis
-Encoding: 138 203 224
+Encoding: 203 203 224
 Width: 530
 Flags: HMW
 LayerCount: 2
@@ -13760,7 +13967,7 @@ Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Igrave
-Encoding: 139 204 225
+Encoding: 204 204 225
 Width: 295
 Flags: HMW
 LayerCount: 2
@@ -13770,7 +13977,7 @@ Refer: 21 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iacute
-Encoding: 140 205 226
+Encoding: 205 205 226
 Width: 295
 Flags: HMW
 LayerCount: 2
@@ -13780,7 +13987,7 @@ Refer: 21 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Icircumflex
-Encoding: 141 206 227
+Encoding: 206 206 227
 Width: 295
 Flags: HMW
 LayerCount: 2
@@ -13790,7 +13997,7 @@ Refer: 21 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Idieresis
-Encoding: 142 207 228
+Encoding: 207 207 228
 Width: 295
 Flags: HMW
 LayerCount: 2
@@ -13800,7 +14007,7 @@ Refer: 21 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ntilde
-Encoding: 144 209 229
+Encoding: 209 209 229
 Width: 705
 Flags: HMW
 LayerCount: 2
@@ -13810,7 +14017,7 @@ Refer: 43 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ugrave
-Encoding: 152 217 230
+Encoding: 217 217 230
 Width: 655
 Flags: HMW
 LayerCount: 2
@@ -13820,7 +14027,7 @@ Refer: 41 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uacute
-Encoding: 153 218 231
+Encoding: 218 218 231
 Width: 655
 Flags: HMW
 LayerCount: 2
@@ -13830,7 +14037,7 @@ Refer: 41 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 154 219 232
+Encoding: 219 219 232
 Width: 655
 Flags: HMW
 LayerCount: 2
@@ -13840,7 +14047,7 @@ Refer: 41 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Udieresis
-Encoding: 155 220 233
+Encoding: 220 220 233
 Width: 655
 Flags: HMW
 LayerCount: 2
@@ -13850,7 +14057,7 @@ Refer: 41 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Yacute
-Encoding: 156 221 234
+Encoding: 221 221 234
 Width: 520
 Flags: HM
 LayerCount: 2
@@ -13860,7 +14067,7 @@ Refer: 48 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Oslash
-Encoding: 151 216 235
+Encoding: 216 216 235
 Width: 700
 UnlinkRmOvrlpSave: 1
 Flags: HMW
@@ -13900,7 +14107,7 @@ Refer: 18 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: currency
-Encoding: 99 164 236
+Encoding: 164 164 236
 Width: 460
 Flags: HMW
 LayerCount: 2
@@ -13985,7 +14192,7 @@ EndSplineSet
 EndChar
 
 StartChar: section
-Encoding: 102 167 237
+Encoding: 167 167 237
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -14118,107 +14325,11 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 105 170 238
+Encoding: 170 170 238
 Width: 320
 Flags: HMW
 LayerCount: 2
 Back
-SplineSet
-216 530 m 2
- 216 550 203 564 182 564 c 0
- 172 564 160 562 150 558 c 1
- 149 530 l 1
- 93 515 l 1
- 93 538 l 1
- 123 578 164 610 204 610 c 0
- 244 610 273 580 273 542 c 2
- 273 402 l 2
- 273 390 276 385 283 385 c 0
- 293 385 304 393 312 402 c 1
- 326 383 l 1
- 311 358 287 340 262 340 c 0
- 238 340 219 360 218 380 c 1
- 198 356 171 340 145 340 c 0
- 115 340 90 368 90 400 c 0
- 90 435 124 456 216 488 c 1
- 216 530 l 2
-216 460 m 1
- 161 440 148 428 148 410 c 0
- 148 395 156 383 170 383 c 0
- 184 383 201 394 216 411 c 1
- 216 460 l 1
--529 527 m 1
- -529 547 -546 562 -568 562 c 1
- -580 562 -593 559 -605 554 c 1
- -606 527 l 1
- -652 513 l 1
- -652 531 l 1
- -626 566 -584 600 -546 600 c 1
- -511 600 -483 574 -483 539 c 1
- -483 392 l 1
- -483 382 -477 376 -467 376 c 1
- -454 376 -444 386 -438 392 c 1
- -429 377 l 1
- -445 353 -463 338 -489 338 c 1
- -511 338 -529 358 -529 379 c 1
- -529 527 l 1
--529 383 m 1
- -550 357 -578 338 -605 338 c 3
- -634 338 -654 366 -654 395 c 3
- -654 427 -622 445 -529 477 c 1
- -529 456 l 17
- -590 435 -605 422 -605 404 c 3
- -605 387 -594 373 -581 373 c 3
- -565 373 -545 386 -529 404 c 1
- -529 383 l 1
--245 340 m 0
- -278.51953125 340 -299 371.241210938 -299 401 c 0
- -299 435.671875 -264.133789062 454.47265625 -174 485.631835938 c 1
- -174 533 l 2
- -174 551.2109375 -189.16796875 564 -208 564 c 0
- -218.125 564 -229.416992188 561.616210938 -240.090820312 557.495117188 c 1
- -241.001953125 532.879882812 l 2
- -241.063476562 531.223632812 -242.384765625 529.8203125 -244.224609375 529.259765625 c 2
- -290.224609375 515.259765625 l 2
- -290.776367188 515.091796875 -291.375 515 -292 515 c 0
- -294.759765625 515 -297 516.791992188 -297 519 c 2
- -297 537 l 2
- -297 537.744140625 -296.745117188 538.442382812 -296.301757812 539.0390625 c 0
- -270.069335938 574.352539062 -227.407226562 610 -186 610 c 0
- -147.532226562 610 -118 581.563476562 -118 545 c 2
- -118 398 l 2
- -118 389.28125 -113.606445312 386 -107 386 c 0
- -97.2080078125 386 -88.1005859375 394.301757812 -81.90625 400.49609375 c 0
- -80.9892578125 401.412109375 -79.580078125 402 -78 402 c 0
- -76.013671875 402 -74.2958984375 401.071289062 -73.4892578125 399.727539062 c 2
- -64.4892578125 384.727539062 l 2
- -64.17578125 384.204101562 -64 383.618164062 -64 383 c 0
- -64 382.321289062 -64.2119140625 381.681640625 -64.5849609375 381.122070312 c 0
- -80.767578125 356.848632812 -100.1171875 340 -129 340 c 0
- -151.927734375 340 -169.4296875 357.654296875 -173.23046875 377.143554688 c 1
- -193.459960938 355.588867188 -218.87109375 340 -245 340 c 0
--174 455.88671875 m 1
- -229.130859375 436.310546875 -240 424.666015625 -240 410 c 0
- -240 393.609375 -229.254882812 383 -221 383 c 0
- -208.328125 383 -189.536132812 394.192382812 -174 411.288085938 c 1
- -174 455.88671875 l 1
-450 280 m 1
- 690 280 l 1
- 690 235 l 1
- 450 235 l 1
- 450 280 l 1
-434 473 m 0
- 434 548 498 610 573 610 c 0
- 648 610 706 552 706 477 c 0
- 706 402 642 340 567 340 c 0
- 492 340 434 398 434 473 c 0
-503 485 m 0
- 503 425 535 377 573 377 c 0
- 610 377 637 410 637 465 c 0
- 637 525 605 573 567 573 c 0
- 530 573 503 540 503 485 c 0
-EndSplineSet
-Fore
 SplineSet
 40 280 m 1
  280 280 l 1
@@ -14248,11 +14359,135 @@ SplineSet
  113 395 122 384 134 384 c 0
  148 384 165 394 180 411 c 1
  180 460 l 1
+-194 530 m 2
+ -194 550 -207 564 -228 564 c 0
+ -238 564 -250 562 -260 558 c 1
+ -261 530 l 1
+ -317 515 l 1
+ -317 538 l 1
+ -287 578 -246 610 -206 610 c 0
+ -166 610 -137 580 -137 542 c 2
+ -137 402 l 2
+ -137 390 -134 385 -127 385 c 0
+ -117 385 -106 393 -98 402 c 1
+ -84 383 l 1
+ -99 358 -123 340 -148 340 c 0
+ -172 340 -191 360 -192 380 c 1
+ -212 356 -239 340 -265 340 c 0
+ -295 340 -320 368 -320 400 c 0
+ -320 435 -286 456 -194 488 c 1
+ -194 530 l 2
+-194 460 m 1
+ -249 440 -262 428 -262 410 c 0
+ -262 395 -254 383 -240 383 c 0
+ -226 383 -209 394 -194 411 c 1
+ -194 460 l 1
+-939 527 m 1
+ -939 547 -956 562 -978 562 c 1
+ -990 562 -1003 559 -1015 554 c 1
+ -1016 527 l 1
+ -1062 513 l 1
+ -1062 531 l 1
+ -1036 566 -994 600 -956 600 c 1
+ -921 600 -893 574 -893 539 c 1
+ -893 392 l 1
+ -893 382 -887 376 -877 376 c 1
+ -864 376 -854 386 -848 392 c 1
+ -839 377 l 1
+ -855 353 -873 338 -899 338 c 1
+ -921 338 -939 358 -939 379 c 1
+ -939 527 l 1
+-939 383 m 1
+ -960 357 -988 338 -1015 338 c 3
+ -1044 338 -1064 366 -1064 395 c 3
+ -1064 427 -1032 445 -939 477 c 1
+ -939 456 l 17
+ -1000 435 -1015 422 -1015 404 c 3
+ -1015 387 -1004 373 -991 373 c 3
+ -975 373 -955 386 -939 404 c 1
+ -939 383 l 1
+-655 340 m 0
+ -688.51953125 340 -709 371.241210938 -709 401 c 0
+ -709 435.671875 -674.133789062 454.47265625 -584 485.631835938 c 1
+ -584 533 l 2
+ -584 551.2109375 -599.16796875 564 -618 564 c 0
+ -628.125 564 -639.416992188 561.616210938 -650.090820312 557.495117188 c 1
+ -651.001953125 532.879882812 l 2
+ -651.063476562 531.223632812 -652.384765625 529.8203125 -654.224609375 529.259765625 c 2
+ -700.224609375 515.259765625 l 2
+ -700.776367188 515.091796875 -701.375 515 -702 515 c 0
+ -704.759765625 515 -707 516.791992188 -707 519 c 2
+ -707 537 l 2
+ -707 537.744140625 -706.745117188 538.442382812 -706.301757812 539.0390625 c 0
+ -680.069335938 574.352539062 -637.407226562 610 -596 610 c 0
+ -557.532226562 610 -528 581.563476562 -528 545 c 2
+ -528 398 l 2
+ -528 389.28125 -523.606445312 386 -517 386 c 0
+ -507.208007812 386 -498.100585938 394.301757812 -491.90625 400.49609375 c 0
+ -490.989257812 401.412109375 -489.580078125 402 -488 402 c 0
+ -486.013671875 402 -484.295898438 401.071289062 -483.489257812 399.727539062 c 2
+ -474.489257812 384.727539062 l 2
+ -474.17578125 384.204101562 -474 383.618164062 -474 383 c 0
+ -474 382.321289062 -474.211914062 381.681640625 -474.584960938 381.122070312 c 0
+ -490.767578125 356.848632812 -510.1171875 340 -539 340 c 0
+ -561.927734375 340 -579.4296875 357.654296875 -583.23046875 377.143554688 c 1
+ -603.459960938 355.588867188 -628.87109375 340 -655 340 c 0
+-584 455.88671875 m 1
+ -639.130859375 436.310546875 -650 424.666015625 -650 410 c 0
+ -650 393.609375 -639.254882812 383 -631 383 c 0
+ -618.328125 383 -599.536132812 394.192382812 -584 411.288085938 c 1
+ -584 455.88671875 l 1
+450 280 m 1
+ 690 280 l 1
+ 690 235 l 1
+ 450 235 l 1
+ 450 280 l 1
+434 473 m 0
+ 434 548 498 610 573 610 c 0
+ 648 610 706 552 706 477 c 0
+ 706 402 642 340 567 340 c 0
+ 492 340 434 398 434 473 c 0
+503 485 m 0
+ 503 425 535 377 573 377 c 0
+ 610 377 637 410 637 465 c 0
+ 637 525 605 573 567 573 c 0
+ 530 573 503 540 503 485 c 0
+EndSplineSet
+Fore
+SplineSet
+40 280 m 1
+ 280 280 l 1
+ 280 235 l 1
+ 40 235 l 1
+ 40 280 l 1
+182 530 m 2
+ 182 550 166 564 145 564 c 0
+ 135 564 123 562 113 558 c 1
+ 112 530 l 1
+ 53 515 l 1
+ 53 538 l 1
+ 83 578 125 610 167 610 c 0
+ 212 610 240 582 240 540 c 2
+ 240 407 l 2
+ 240 395 246 390 254 390 c 0
+ 264 390 274 397 282 407 c 1
+ 296 385 l 1
+ 281 360 251 340 227 340 c 0
+ 202 340 186 358 184 382 c 1
+ 164 360 133 340 103 340 c 0
+ 73 340 50 368 50 400 c 0
+ 50 435 87 456 182 488 c 1
+ 182 530 l 2
+182 462 m 1
+ 127 442 111 428 111 410 c 0
+ 111 393 120 382 134 382 c 0
+ 148 382 167 391 182 408 c 1
+ 182 462 l 1
 EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 109 174 239
+Encoding: 174 174 239
 Width: 380
 Flags: HMW
 LayerCount: 2
@@ -14573,7 +14808,7 @@ EndSplineSet
 EndChar
 
 StartChar: mu
-Encoding: 116 181 240
+Encoding: 181 181 240
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -14639,7 +14874,7 @@ EndSplineSet
 EndChar
 
 StartChar: paragraph
-Encoding: 117 182 241
+Encoding: 182 182 241
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -14706,7 +14941,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 121 186 242
+Encoding: 186 186 242
 Width: 320
 Flags: HMW
 LayerCount: 2
@@ -14754,7 +14989,7 @@ EndSplineSet
 EndChar
 
 StartChar: ct.dlig
-Encoding: 242 -1 243
+Encoding: 1114126 -1 243
 Width: 650
 Flags: HW
 AnchorPoint: "accent_below" 200 25 basechar 0
